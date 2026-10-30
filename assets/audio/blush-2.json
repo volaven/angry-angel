@@ -1,0 +1,16 @@
+{
+  "id": "blush-2",
+  "emotion": "blush",
+  "text": "계속 이렇게 하면... 됐어요, 다음 문제 보세요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 4.88,
+  "generationSeconds": 8.105629682540894,
+  "sha256": "f85f2845917ea336555f40faf93e6f42cc9fb110bbacc2af9ddd8f4b1909ef75",
+  "status": "generated_pending_listening"
+}

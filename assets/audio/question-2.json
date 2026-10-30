@@ -1,0 +1,16 @@
+{
+  "id": "question-2",
+  "emotion": "question",
+  "text": "이번에는 근거를 가지고 고르세요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.64,
+  "generationSeconds": 4.490381956100464,
+  "sha256": "8bc31df0da17b736e34b8041c2395cf9ad6ac85c8dfedd285b5ad0ad476b56f7",
+  "status": "generated_pending_listening"
+}

@@ -1,0 +1,2 @@
+self.addEventListener('push',event=>{let d={};try{d=event.data?.json()||{}}catch{}event.waitUntil(self.registration.showNotification(d.title||'시연의 시험관리실',{body:d.body||'시연이 복습을 기다리고 있어요.',tag:'siyeon-daily-review',data:{url:'/'}}))});
+self.addEventListener('notificationclick',event=>{event.notification.close();event.waitUntil(clients.matchAll({type:'window'}).then(windows=>windows[0]?windows[0].focus():clients.openWindow('/')))});

@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-28T22:15:30.728Z",
+  "collected": 200,
+  "enabled": 80,
+  "withheld": 120,
+  "groups": {
+    "2024 국어": {
+      "total": 20,
+      "enabled": 20
+    },
+    "2024 영어": {
+      "total": 20,
+      "enabled": 20
+    },
+    "2024 한국사": {
+      "total": 20,
+      "enabled": 0
+    },
+    "2024 행정법총론": {
+      "total": 20,
+      "enabled": 0
+    },
+    "2024 행정학개론": {
+      "total": 20,
+      "enabled": 0
+    },
+    "2025 국어": {
+      "total": 20,
+      "enabled": 20
+    },
+    "2025 영어": {
+      "total": 20,
+      "enabled": 20
+    },
+    "2025 한국사": {
+      "total": 20,
+      "enabled": 0
+    },
+    "2025 행정법총론": {
+      "total": 20,
+      "enabled": 0
+    },
+    "2025 행정학개론": {
+      "total": 20,
+      "enabled": 0
+    }
+  },
+  "missingAssets": [],
+  "characters": 12,
+  "audio": 24,
+  "offline": {
+    "cache": "7a4407548109",
+    "files": 273,
+    "bytes": 49733649
+  },
+  "releaseStatus": "content-review-incomplete",
+  "pending": [
+    "한국사·행정법총론·행정학개론 원문·해설 대조",
+    "2024 HWP와 확보 PDF의 전체 문항 대조",
+    "공식 정답 직접 다운로드의 독립적인 동일성 확인",
+    "법령 문제의 시험 당시 기준·이후 개정 여부",
+    "24개 음성 발음 청취",
+    "실제 휴대전화 터치·푸시 수신",
+    "운영 HTTPS/VAPID/Docker 실행"
+  ]
+}

@@ -1,0 +1,6021 @@
+{
+  "date": "2026-10-30T03:28:09.083Z",
+  "browser": "Edge headless / isolated contexts",
+  "sizes": [
+    {
+      "width": 2038,
+      "height": 1280,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1954.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 394,
+                "y": 843.578125,
+                "width": 410,
+                "height": 80
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1954.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 263,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 646,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 1029,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 1412,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 263,
+                "y": 685.984375,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 396.203125,
+                "y": 685.984375,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 503.65625,
+                "y": 685.984375,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 581.421875,
+                "y": 685.984375,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1954.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 263,
+                "y": 274.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 882.5625,
+                "y": 566.984375,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 1063.5,
+                "y": 566.984375,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.012499999999818101,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1928.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 654.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 746.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 838.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 930.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 1376.1875,
+            "height": 1120
+          },
+          "character": {
+            "x": 1424.1875,
+            "y": 142,
+            "width": 589.8125,
+            "height": 1120
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.012499999999818101,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1928.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 654.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 746.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 838.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 930.21875,
+                "width": 1271.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 95,
+                "y": 1458.296875,
+                "width": 1219.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 1441.1875,
+                "y": 1201,
+                "width": 555.8125,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 1376.1875,
+            "height": 1120
+          },
+          "character": {
+            "x": 1424.1875,
+            "y": 142,
+            "width": 589.8125,
+            "height": 1120
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 1672,
+      "height": 941,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1588.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 211,
+                "y": 674.078125,
+                "width": 410,
+                "height": 80
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1588.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 80,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 463,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 846,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 1229,
+                "y": 368.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 80,
+                "y": 685.984375,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 213.203125,
+                "y": 685.984375,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 320.65625,
+                "y": 685.984375,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 398.421875,
+                "y": 685.984375,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1588.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 80,
+                "y": 274.984375,
+                "width": 363,
+                "height": 260
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 699.5625,
+                "y": 566.984375,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 880.5,
+                "y": 566.984375,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1562.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 654.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 746.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 838.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 69,
+                "y": 930.21875,
+                "width": 1015,
+                "height": 80
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 1120,
+            "height": 781
+          },
+          "character": {
+            "x": 1168,
+            "y": 142,
+            "width": 480,
+            "height": 781
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1562.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 654.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 746.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 838.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 69,
+                "y": 930.21875,
+                "width": 1015,
+                "height": 80
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 95,
+                "y": 1458.296875,
+                "width": 963,
+                "height": 80
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 1185,
+                "y": 862,
+                "width": 446,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 1120,
+            "height": 781
+          },
+          "character": {
+            "x": 1168,
+            "y": 142,
+            "width": 480,
+            "height": 781
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1196.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 44,
+                "y": 585.296875,
+                "width": 410,
+                "height": 80
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1196.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 44,
+                "y": 363.953125,
+                "width": 283,
+                "height": 260
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 347,
+                "y": 363.953125,
+                "width": 283,
+                "height": 260
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 650,
+                "y": 363.953125,
+                "width": 283,
+                "height": 260
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 953,
+                "y": 363.953125,
+                "width": 283,
+                "height": 260
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 44,
+                "y": 680.953125,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 177.203125,
+                "y": 680.953125,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 284.65625,
+                "y": 680.953125,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 362.421875,
+                "y": 680.953125,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1196.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 44,
+                "y": 269.953125,
+                "width": 283,
+                "height": 260
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 503.5625,
+                "y": 561.953125,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 684.5,
+                "y": 561.953125,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0062499999999090505,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1170.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 63.390625,
+                "y": 752.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 63.390625,
+                "y": 844.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 63.390625,
+                "y": 936.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 63.390625,
+                "y": 1028.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 845.59375,
+            "height": 640
+          },
+          "character": {
+            "x": 893.59375,
+            "y": 142,
+            "width": 362.40625,
+            "height": 640
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0062499999999090505,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1170.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 63.390625,
+                "y": 701.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 63.390625,
+                "y": 793.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 63.390625,
+                "y": 885.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 63.390625,
+                "y": 977.484375,
+                "width": 751.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 89.390625,
+                "y": 1505.5625,
+                "width": 699.8125,
+                "height": 80
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 910.59375,
+                "y": 721,
+                "width": 328.40625,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 845.59375,
+            "height": 640
+          },
+          "character": {
+            "x": 893.59375,
+            "y": 142,
+            "width": 362.40625,
+            "height": 640
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 940.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 538.84375,
+                "width": 410,
+                "height": 80
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 940.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 347.1875,
+                "width": 474,
+                "height": 219.96875
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 522,
+                "y": 347.1875,
+                "width": 474,
+                "height": 219.96875
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 587.15625,
+                "width": 474,
+                "height": 219.96875
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 522,
+                "y": 587.15625,
+                "width": 474,
+                "height": 219.96875
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 864.125,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 161.203125,
+                "y": 864.125,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 268.65625,
+                "y": 864.125,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 346.421875,
+                "y": 864.125,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 940.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 28,
+                "y": 253.1875,
+                "width": 474,
+                "height": 223.96875
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 375.5625,
+                "y": 739.15625,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 556.5,
+                "y": 739.15625,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0015625000000909495,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 914.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 773.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 865.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 957.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 1049.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 666.390625,
+            "height": 608
+          },
+          "character": {
+            "x": 714.390625,
+            "y": 142,
+            "width": 285.59375,
+            "height": 608
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0015625000000909495,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 914.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 405.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 497.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 589.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 681.78125,
+                "width": 601.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 75,
+                "y": 1242.15625,
+                "width": 549.390625,
+                "height": 80
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 731.390625,
+                "y": 689,
+                "width": 251.59375,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 666.390625,
+            "height": 608
+          },
+          "character": {
+            "x": 714.390625,
+            "y": 142,
+            "width": 285.59375,
+            "height": 608
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 764,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 366.3125,
+                "width": 386,
+                "height": 65
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 764,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 275.03125,
+                "width": 190,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 226,
+                "y": 275.03125,
+                "width": 190,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 428,
+                "y": 275.03125,
+                "width": 190,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 630,
+                "y": 275.03125,
+                "width": 190,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 509.921875,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 157.203125,
+                "y": 509.921875,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 264.65625,
+                "y": 509.921875,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 342.421875,
+                "y": 509.921875,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 764,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 24,
+                "y": 195.03125,
+                "width": 190,
+                "height": 176.78125
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 285.5625,
+                "y": 391.8125,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 466.5,
+                "y": 391.8125,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 742.46875,
+                "y": 6,
+                "width": 85.53125,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 762.453125,
+                "width": 489,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 838.453125,
+                "width": 489,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 914.453125,
+                "width": 489,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 990.453125,
+                "width": 489,
+                "height": 64
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 126,
+            "width": 546,
+            "height": 246
+          },
+          "character": {
+            "x": 586,
+            "y": 126,
+            "width": 234,
+            "height": 246
+          },
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 742.46875,
+                "y": 6,
+                "width": 85.53125,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 217.453125,
+                "width": 489,
+                "height": 66
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 295.453125,
+                "width": 489,
+                "height": 66
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 373.453125,
+                "width": 489,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 449.453125,
+                "width": 489,
+                "height": 64
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 71,
+                "y": 993.828125,
+                "width": 437,
+                "height": 65
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 764,
+                "y": 280.203125,
+                "width": 50,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 126,
+            "width": 546,
+            "height": 246
+          },
+          "character": {
+            "x": 586,
+            "y": 126,
+            "width": 234,
+            "height": 246
+          },
+          "landscape": true,
+          "brandHidden": true
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 587,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 366.3125,
+                "width": 297.5,
+                "height": 65
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 587,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 275.03125,
+                "width": 145.75,
+                "height": 198.28125
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 181.75,
+                "y": 275.03125,
+                "width": 145.75,
+                "height": 198.28125
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 339.5,
+                "y": 275.03125,
+                "width": 145.75,
+                "height": 198.28125
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 497.25,
+                "y": 275.03125,
+                "width": 145.75,
+                "height": 198.28125
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 530.3125,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 157.203125,
+                "y": 530.3125,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 264.65625,
+                "y": 530.3125,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 342.421875,
+                "y": 530.3125,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 587,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 24,
+                "y": 195.03125,
+                "width": 145.75,
+                "height": 197.171875
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 197.0625,
+                "y": 412.203125,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 378,
+                "y": 412.203125,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.006249999999965894,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 565.46875,
+                "y": 6,
+                "width": 85.53125,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 891.34375,
+                "width": 365.09375,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 967.34375,
+                "width": 365.09375,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 1043.34375,
+                "width": 365.09375,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 1119.34375,
+                "width": 365.09375,
+                "height": 64
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 126,
+            "width": 422.09375,
+            "height": 231
+          },
+          "character": {
+            "x": 462.09375,
+            "y": 126,
+            "width": 180.90625,
+            "height": 231
+          },
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.006249999999965894,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 565.46875,
+                "y": 6,
+                "width": 85.53125,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 209.34375,
+                "width": 365.09375,
+                "height": 66
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 287.34375,
+                "width": 365.09375,
+                "height": 66
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 365.34375,
+                "width": 365.09375,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 441.34375,
+                "width": 365.09375,
+                "height": 64
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 71,
+                "y": 1050.3125,
+                "width": 313.09375,
+                "height": 65
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 587,
+                "y": 245.40625,
+                "width": 50,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 126,
+            "width": 422.09375,
+            "height": 231
+          },
+          "character": {
+            "x": 462.09375,
+            "y": 126,
+            "width": 180.90625,
+            "height": 231
+          },
+          "landscape": true,
+          "brandHidden": true
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 835,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 366.3125,
+                "width": 410,
+                "height": 65
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 835,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 275.03125,
+                "width": 207.75,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 243.75,
+                "y": 275.03125,
+                "width": 207.75,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 463.5,
+                "y": 275.03125,
+                "width": 207.75,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 683.25,
+                "y": 275.03125,
+                "width": 207.75,
+                "height": 177.890625
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 509.921875,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 157.203125,
+                "y": 509.921875,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 264.65625,
+                "y": 509.921875,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 342.421875,
+                "y": 509.921875,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 835,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 24,
+                "y": 195.03125,
+                "width": 207.75,
+                "height": 176.78125
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 321.0625,
+                "y": 391.8125,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 502,
+                "y": 391.8125,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.012499999999931788,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 813.46875,
+                "y": 6,
+                "width": 85.53125,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 730.15625,
+                "width": 538.6875,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 806.15625,
+                "width": 538.6875,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 882.15625,
+                "width": 538.6875,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 958.15625,
+                "width": 538.6875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 126,
+            "width": 595.6875,
+            "height": 220
+          },
+          "character": {
+            "x": 635.6875,
+            "y": 126,
+            "width": 255.3125,
+            "height": 220
+          },
+          "landscape": true,
+          "brandHidden": true
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.012499999999931788,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 16,
+                "y": 6,
+                "width": 64,
+                "height": 64
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 813.46875,
+                "y": 6,
+                "width": 85.53125,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 204.15625,
+                "width": 538.6875,
+                "height": 66
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 282.15625,
+                "width": 538.6875,
+                "height": 66
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 360.15625,
+                "width": 538.6875,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 45,
+                "y": 436.15625,
+                "width": 538.6875,
+                "height": 64
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 71,
+                "y": 980.53125,
+                "width": 486.6875,
+                "height": 65
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 835,
+                "y": 254.203125,
+                "width": 50,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 126,
+            "width": 595.6875,
+            "height": 220
+          },
+          "character": {
+            "x": 635.6875,
+            "y": 126,
+            "width": 255.3125,
+            "height": 220
+          },
+          "landscape": true,
+          "brandHidden": true
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 328,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 700.421875,
+                "width": 354,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 328,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 304.078125,
+                "width": 171,
+                "height": 210
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 201,
+                "y": 304.078125,
+                "width": 171,
+                "height": 210
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 526.078125,
+                "width": 171,
+                "height": 210
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 201,
+                "y": 526.078125,
+                "width": 171,
+                "height": 210
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 785.078125,
+                "width": 173,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 199,
+                "y": 785.078125,
+                "width": 173,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 841.078125,
+                "width": 173,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 199,
+                "y": 841.078125,
+                "width": 173,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 328,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 18,
+                "y": 226.078125,
+                "width": 171,
+                "height": 210
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 72.5625,
+                "y": 690.078125,
+                "width": 87.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 229.5,
+                "y": 690.078125,
+                "width": 87.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 309.828125,
+                "y": 13,
+                "width": 66.171875,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1040.484375,
+                "width": 332,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1116.484375,
+                "width": 332,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1192.484375,
+                "width": 332,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1268.484375,
+                "width": 332,
+                "height": 64
+              }
+            }
+          ],
+          "panel": {
+            "x": 12,
+            "y": 246,
+            "width": 366,
+            "height": 1169.28125
+          },
+          "character": {
+            "x": 12,
+            "y": 128,
+            "width": 366,
+            "height": 102
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": -587,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 309.828125,
+                "y": -586,
+                "width": 66.171875,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 441.484375,
+                "width": 332,
+                "height": 90.390625
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 543.875,
+                "width": 332,
+                "height": 90.390625
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 646.265625,
+                "width": 332,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 722.265625,
+                "width": 332,
+                "height": 64
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 46,
+                "y": 894.40625,
+                "width": 298,
+                "height": 44
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 1479.125,
+                "width": 300,
+                "height": 65
+              }
+            }
+          ],
+          "panel": {
+            "x": 12,
+            "y": -353,
+            "width": 366,
+            "height": 1999.921875
+          },
+          "character": {
+            "x": 12,
+            "y": -471,
+            "width": 366,
+            "height": 102
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 298,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 700.421875,
+                "width": 324,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 298,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 304.078125,
+                "width": 156,
+                "height": 210
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 186,
+                "y": 304.078125,
+                "width": 156,
+                "height": 210
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 526.078125,
+                "width": 156,
+                "height": 210
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 186,
+                "y": 526.078125,
+                "width": 156,
+                "height": 210
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 785.078125,
+                "width": 158,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 184,
+                "y": 785.078125,
+                "width": 158,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 841.078125,
+                "width": 158,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 184,
+                "y": 841.078125,
+                "width": 158,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 298,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 18,
+                "y": 226.078125,
+                "width": 156,
+                "height": 210
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 57.5625,
+                "y": 690.078125,
+                "width": 87.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 214.5,
+                "y": 690.078125,
+                "width": 87.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 279.828125,
+                "y": 13,
+                "width": 66.171875,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1072.78125,
+                "width": 302,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1148.78125,
+                "width": 302,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1224.78125,
+                "width": 302,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1300.78125,
+                "width": 302,
+                "height": 64
+              }
+            }
+          ],
+          "panel": {
+            "x": 12,
+            "y": 246,
+            "width": 336,
+            "height": 1201.578125
+          },
+          "character": {
+            "x": 12,
+            "y": 128,
+            "width": 336,
+            "height": 102
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": -664,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 279.828125,
+                "y": -663,
+                "width": 66.171875,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 396.78125,
+                "width": 302,
+                "height": 90.390625
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 499.171875,
+                "width": 302,
+                "height": 90.390625
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 601.5625,
+                "width": 302,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 677.5625,
+                "width": 302,
+                "height": 64
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 46,
+                "y": 849.703125,
+                "width": 268,
+                "height": 44
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 1495.203125,
+                "width": 270,
+                "height": 65
+              }
+            }
+          ],
+          "panel": {
+            "x": 12,
+            "y": -430,
+            "width": 336,
+            "height": 2093
+          },
+          "character": {
+            "x": 12,
+            "y": -548,
+            "width": 336,
+            "height": 102
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 368,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 700.421875,
+                "width": 394,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 368,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 304.078125,
+                "width": 191,
+                "height": 210
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 221,
+                "y": 304.078125,
+                "width": 191,
+                "height": 210
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 526.078125,
+                "width": 191,
+                "height": 210
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 221,
+                "y": 526.078125,
+                "width": 191,
+                "height": 210
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 785.078125,
+                "width": 193,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 219,
+                "y": 785.078125,
+                "width": 193,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 18,
+                "y": 841.078125,
+                "width": 193,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 219,
+                "y": 841.078125,
+                "width": 193,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 368,
+                "y": 13,
+                "width": 48,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 18,
+                "y": 226.078125,
+                "width": 191,
+                "height": 210
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 92.5625,
+                "y": 690.078125,
+                "width": 87.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 249.5,
+                "y": 690.078125,
+                "width": 87.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": 12,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 349.828125,
+                "y": 13,
+                "width": 66.171875,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1008.1875,
+                "width": 372,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1084.1875,
+                "width": 372,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1160.1875,
+                "width": 372,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 29,
+                "y": 1236.1875,
+                "width": 372,
+                "height": 64
+              }
+            }
+          ],
+          "panel": {
+            "x": 12,
+            "y": 246,
+            "width": 406,
+            "height": 1136.984375
+          },
+          "character": {
+            "x": 12,
+            "y": 128,
+            "width": 406,
+            "height": 102
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 14,
+                "y": -467,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 349.828125,
+                "y": -466,
+                "width": 66.171875,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 533.765625,
+                "width": 372,
+                "height": 90.390625
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 636.15625,
+                "width": 372,
+                "height": 90.390625
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 738.546875,
+                "width": 372,
+                "height": 64
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 29,
+                "y": 814.546875,
+                "width": 372,
+                "height": 64
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 46,
+                "y": 1011.4375,
+                "width": 338,
+                "height": 44
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 45,
+                "y": 1565.765625,
+                "width": 340,
+                "height": 65
+              }
+            }
+          ],
+          "panel": {
+            "x": 12,
+            "y": -228.421875,
+            "width": 406,
+            "height": 1961.984375
+          },
+          "character": {
+            "x": 12,
+            "y": -351,
+            "width": 406,
+            "height": 106.578125
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 684.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 642.453125,
+                "width": 348.875,
+                "height": 80
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 684.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 343.375,
+                "width": 346,
+                "height": 219.296875
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 394,
+                "y": 343.375,
+                "width": 346,
+                "height": 219.296875
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 582.671875,
+                "width": 346,
+                "height": 219.296875
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 394,
+                "y": 582.671875,
+                "width": 346,
+                "height": 219.296875
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 28,
+                "y": 858.96875,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 161.203125,
+                "y": 858.96875,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 268.65625,
+                "y": 858.96875,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 346.421875,
+                "y": 858.96875,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 684.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 28,
+                "y": 249.375,
+                "width": 346,
+                "height": 223.296875
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 247.5625,
+                "y": 734.671875,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 428.5,
+                "y": 734.671875,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0015624999999772626,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 658.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 908.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 1000.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 1092.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 49,
+                "y": 1184.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 487.1875,
+            "height": 864
+          },
+          "character": {
+            "x": 535.1875,
+            "y": 142,
+            "width": 208.796875,
+            "height": 864
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0015624999999772626,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 658.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 908.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 1000.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 1092.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 49,
+                "y": 1184.34375,
+                "width": 422.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 75,
+                "y": 1777.015625,
+                "width": 370.1875,
+                "height": 80
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 552.1875,
+                "y": 945,
+                "width": 174.796875,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 487.1875,
+            "height": 864
+          },
+          "character": {
+            "x": 535.1875,
+            "y": 142,
+            "width": 208.796875,
+            "height": 864
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "checks": [
+        {
+          "screen": "entry",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1356.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "home",
+              "role": "primary",
+              "name": "시험관리실 입장 →",
+              "disabled": false,
+              "bounds": {
+                "x": 95,
+                "y": 650.53125,
+                "width": 410,
+                "height": 80
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "home",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1356.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "daily",
+              "role": "secondary",
+              "name": "01오늘의 과제새 문제 10개 · 복습 최대 5개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 44,
+                "y": 368.984375,
+                "width": 323,
+                "height": 260
+              }
+            },
+            {
+              "action": "subjects",
+              "role": "secondary",
+              "name": "02과목 학습한 과목씩, 확실하게↗",
+              "disabled": false,
+              "bounds": {
+                "x": 387,
+                "y": 368.984375,
+                "width": 323,
+                "height": 260
+              }
+            },
+            {
+              "action": "mocks",
+              "role": "secondary",
+              "name": "03실전 모의고사두 번의 시험 · 원문 검수 중↗",
+              "disabled": false,
+              "bounds": {
+                "x": 730,
+                "y": 368.984375,
+                "width": 323,
+                "height": 260
+              }
+            },
+            {
+              "action": "wrong",
+              "role": "secondary",
+              "name": "04폐기물 보관소복습할 문제 0개↗",
+              "disabled": false,
+              "bounds": {
+                "x": 1073,
+                "y": 368.984375,
+                "width": 323,
+                "height": 260
+              }
+            },
+            {
+              "action": "wardrobe",
+              "role": "secondary",
+              "name": "시연의 기록실",
+              "disabled": false,
+              "bounds": {
+                "x": 44,
+                "y": 685.984375,
+                "width": 123.203125,
+                "height": 48
+              }
+            },
+            {
+              "action": "history",
+              "role": "secondary",
+              "name": "학습 기록",
+              "disabled": false,
+              "bounds": {
+                "x": 177.203125,
+                "y": 685.984375,
+                "width": 97.453125,
+                "height": 48
+              }
+            },
+            {
+              "action": "settings",
+              "role": "secondary",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 284.65625,
+                "y": 685.984375,
+                "width": 67.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "sources",
+              "role": "secondary",
+              "name": "원문 검수 현황",
+              "disabled": false,
+              "bounds": {
+                "x": 362.421875,
+                "y": 685.984375,
+                "width": 127.125,
+                "height": 48
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "subjects",
+          "overflow": false,
+          "ratioError": 0,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "settings",
+              "role": "icon",
+              "name": "설정",
+              "disabled": false,
+              "bounds": {
+                "x": 1356.234375,
+                "y": 19,
+                "width": 59.765625,
+                "height": 48
+              }
+            },
+            {
+              "action": "subject:행정학개론",
+              "role": "secondary",
+              "name": "05행정학개론잠김 · 원문·해설 검수 대기검수 완료 후 열립니다",
+              "disabled": true,
+              "bounds": {
+                "x": 44,
+                "y": 274.984375,
+                "width": 323,
+                "height": 260
+              }
+            },
+            {
+              "action": "page:0",
+              "role": "secondary",
+              "name": "← 이전",
+              "disabled": false,
+              "bounds": {
+                "x": 583.5625,
+                "y": 566.984375,
+                "width": 91.921875,
+                "height": 64
+              }
+            },
+            {
+              "action": "page:1",
+              "role": "secondary",
+              "name": "다음 →",
+              "disabled": true,
+              "bounds": {
+                "x": 764.5,
+                "y": 566.984375,
+                "width": 91.921875,
+                "height": 64
+              }
+            }
+          ],
+          "panel": null,
+          "character": null,
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0062499999999090505,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1330.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 68.1875,
+                "y": 722.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 68.1875,
+                "y": 814.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": false,
+              "bounds": {
+                "x": 68.1875,
+                "y": 906.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": false,
+              "bounds": {
+                "x": 68.1875,
+                "y": 998.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 957.59375,
+            "height": 740
+          },
+          "character": {
+            "x": 1005.59375,
+            "y": 142,
+            "width": 410.40625,
+            "height": 740
+          },
+          "landscape": false,
+          "brandHidden": false
+        },
+        {
+          "screen": "play",
+          "overflow": false,
+          "ratioError": 0.0062499999999090505,
+          "nested": 0,
+          "broken": [],
+          "buttons": [
+            {
+              "action": "back",
+              "role": "icon",
+              "name": "뒤로 가기",
+              "disabled": false,
+              "bounds": {
+                "x": 24,
+                "y": 18,
+                "width": 48,
+                "height": 50
+              }
+            },
+            {
+              "action": "pause",
+              "role": "icon",
+              "name": "일시정지",
+              "disabled": false,
+              "bounds": {
+                "x": 1330.46875,
+                "y": 19,
+                "width": 85.53125,
+                "height": 48
+              }
+            },
+            {
+              "action": "answer:1",
+              "role": "secondary",
+              "name": "1(나) －(다) －(라) －(가)× 내 답",
+              "disabled": true,
+              "bounds": {
+                "x": 68.1875,
+                "y": 722.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:2",
+              "role": "secondary",
+              "name": "2(나) －(라) －(가) －(다)✓ 정답",
+              "disabled": true,
+              "bounds": {
+                "x": 68.1875,
+                "y": 814.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:3",
+              "role": "secondary",
+              "name": "3(라) －(가) －(나) －(다)",
+              "disabled": true,
+              "bounds": {
+                "x": 68.1875,
+                "y": 906.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "answer:4",
+              "role": "secondary",
+              "name": "4(라) －(다) －(나) －(가)",
+              "disabled": true,
+              "bounds": {
+                "x": 68.1875,
+                "y": 998.59375,
+                "width": 854.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "next",
+              "role": "primary",
+              "name": "다음 문제 →",
+              "disabled": false,
+              "bounds": {
+                "x": 94.1875,
+                "y": 1526.671875,
+                "width": 802.21875,
+                "height": 80
+              }
+            },
+            {
+              "action": "close",
+              "role": "secondary",
+              "name": "반응 닫기",
+              "disabled": false,
+              "bounds": {
+                "x": 1022.59375,
+                "y": 821,
+                "width": 376.40625,
+                "height": 44
+              }
+            }
+          ],
+          "panel": {
+            "x": 24,
+            "y": 142,
+            "width": 957.59375,
+            "height": 740
+          },
+          "character": {
+            "x": 1005.59375,
+            "y": 142,
+            "width": 410.40625,
+            "height": 740
+          },
+          "landscape": false,
+          "brandHidden": false
+        }
+      ],
+      "restored": true,
+      "rotationPreservedDOM": true,
+      "pausePreserved": true,
+      "navigationReadOnly": true
+    }
+  ],
+  "questionRender": [
+    {
+      "id": "2024-0-1",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-2",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-3",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-4",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-5",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-6",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-7",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-8",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-9",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-10",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-11",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-12",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-13",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-14",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-15",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-16",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-17",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-18",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-19",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-0-20",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-1",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-2",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-3",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-4",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-5",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-6",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-7",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-8",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-9",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-10",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-11",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-12",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-13",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-14",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-15",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-16",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-17",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-18",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-19",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2024-1-20",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-1",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-2",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-3",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-4",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-5",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-6",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-7",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-8",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-9",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-10",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-11",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-12",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-13",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-14",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-15",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-16",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-17",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-18",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-19",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-0-20",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-1",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-2",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-3",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-4",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-5",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-6",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-7",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-8",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-9",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-10",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-11",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-12",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-13",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-14",
+      "kind": "material",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-15",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-16",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-17",
+      "kind": "inline-marked",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-18",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-19",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    },
+    {
+      "id": "2025-1-20",
+      "kind": "choice",
+      "ratioError": 0.0015625000000909495
+    }
+  ],
+  "mock": {
+    "fixtureOnly": true,
+    "answerEdits": true,
+    "noGradeLeak": true,
+    "pauseDoesNotExtendDeadline": true,
+    "duplicateFinishBlocked": true
+  },
+  "errors": [],
+  "physicalDevice": false
+}

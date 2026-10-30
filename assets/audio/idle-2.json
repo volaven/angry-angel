@@ -1,0 +1,16 @@
+{
+  "id": "idle-2",
+  "emotion": "idle",
+  "text": "기다리고 있었어요. 공부하러 온 거죠?",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.72,
+  "generationSeconds": 4.571326494216919,
+  "sha256": "21a3b098006ed0d12c27f7c07314a48f196d8c38e90237818485dd1ea0934826",
+  "status": "generated_pending_listening"
+}

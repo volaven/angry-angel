@@ -1,0 +1,13 @@
+{
+  "wrongStages": true,
+  "cutinDismiss": true,
+  "correctReset": true,
+  "reviewRetainsHistory": true,
+  "reviewReopens": true,
+  "inspectReload": true,
+  "fastGuard": true,
+  "voiceRemoved": true,
+  "audioRequests": [],
+  "errors": [],
+  "physicalDevice": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "contempt-1",
+  "emotion": "contempt",
+  "text": "두 번입니다. 우연이라고 하기 어렵겠죠.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 5.68,
+  "generationSeconds": 9.539582252502441,
+  "sha256": "42cb4db4cc5cde30ab849f0622005e7b3bfa6308095d9e933c254ffef3bd87a7",
+  "status": "generated_pending_listening"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "question-1",
+  "emotion": "question",
+  "text": "조건 하나도 놓치지 마세요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.32,
+  "generationSeconds": 3.868666887283325,
+  "sha256": "25927e7cff54619014c1648ffca08c6d6bc8ef02f914418000f2bedc7286ab33",
+  "status": "generated_pending_listening"
+}

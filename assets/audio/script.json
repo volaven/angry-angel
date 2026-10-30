@@ -1,0 +1,122 @@
+[
+  {
+    "id": "idle-0",
+    "emotion": "idle",
+    "text": "오셨네요. 오늘의 분량부터 확인하세요."
+  },
+  {
+    "id": "idle-1",
+    "emotion": "idle",
+    "text": "책은 펼쳤나요? 시작하죠."
+  },
+  {
+    "id": "idle-2",
+    "emotion": "idle",
+    "text": "기다리고 있었어요. 공부하러 온 거죠?"
+  },
+  {
+    "id": "question-0",
+    "emotion": "question",
+    "text": "문제를 끝까지 읽으세요. 답은 그다음입니다."
+  },
+  {
+    "id": "question-1",
+    "emotion": "question",
+    "text": "조건 하나도 놓치지 마세요."
+  },
+  {
+    "id": "question-2",
+    "emotion": "question",
+    "text": "이번에는 근거를 가지고 고르세요."
+  },
+  {
+    "id": "sigh-0",
+    "emotion": "sigh",
+    "text": "하아... 방금 그 문제, 초등학생도 맞출 텐데요. 공무원? 그냥 평생 방구석에나 계시죠."
+  },
+  {
+    "id": "sigh-1",
+    "emotion": "sigh",
+    "text": "한숨만 나오네요. 해설부터 읽으세요."
+  },
+  {
+    "id": "sigh-2",
+    "emotion": "sigh",
+    "text": "어디서 틀렸는지, 직접 확인하세요."
+  },
+  {
+    "id": "contempt-0",
+    "emotion": "contempt",
+    "text": "그렇게 자신 있게 틀리는 것도 재주네요."
+  },
+  {
+    "id": "contempt-1",
+    "emotion": "contempt",
+    "text": "두 번입니다. 우연이라고 하기 어렵겠죠."
+  },
+  {
+    "id": "contempt-2",
+    "emotion": "contempt",
+    "text": "기본서를 장식으로 가지고 다니나요?"
+  },
+  {
+    "id": "ignore-0",
+    "emotion": "ignore",
+    "text": "설명할 가치도 없네요. 해설지나 읽으세요."
+  },
+  {
+    "id": "ignore-1",
+    "emotion": "ignore",
+    "text": "저는 잠시 다른 곳을 보겠습니다. 복습하세요."
+  },
+  {
+    "id": "ignore-2",
+    "emotion": "ignore",
+    "text": "말보다 복습이 먼저겠네요."
+  },
+  {
+    "id": "correct-0",
+    "emotion": "correct",
+    "text": "뭐, 이 정도는 기본이죠. 어쩌다 한 번 맞췄다고 우쭐대지 마세요."
+  },
+  {
+    "id": "correct-1",
+    "emotion": "correct",
+    "text": "정답입니다. 다음에도 근거를 기억하세요."
+  },
+  {
+    "id": "correct-2",
+    "emotion": "correct",
+    "text": "틀리지 않았네요. 이 흐름은 유지하세요."
+  },
+  {
+    "id": "encourage-0",
+    "emotion": "encourage",
+    "text": "지금 텍스트 읽지도 않고 누르고 있죠? 저를 기만하지 마세요."
+  },
+  {
+    "id": "encourage-1",
+    "emotion": "encourage",
+    "text": "복습할 기회는 남아 있어요. 다시 보세요."
+  },
+  {
+    "id": "encourage-2",
+    "emotion": "encourage",
+    "text": "시간 다 됐네요. 당신의 뇌 처리 속도에 경의를 표합니다. 안 좋은 의미로요."
+  },
+  {
+    "id": "blush-0",
+    "emotion": "blush",
+    "text": "조, 조금은 쓸모가 있네요. 아주 조금이요."
+  },
+  {
+    "id": "blush-1",
+    "emotion": "blush",
+    "text": "오늘은 꽤 열심히 했네요. 칭찬은 아니고요."
+  },
+  {
+    "id": "blush-2",
+    "emotion": "blush",
+    "text": "계속 이렇게 하면... 됐어요, 다음 문제 보세요."
+  }
+]

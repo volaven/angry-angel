@@ -1,0 +1,8 @@
+{
+  "subscription": true,
+  "syncZeroCount": true,
+  "unauthorizedRejected": true,
+  "unsafeEndpointRejected": true,
+  "unsubscribe": true,
+  "actualDelivery": "not tested: no HTTPS deployment or VAPID configuration"
+}

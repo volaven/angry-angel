@@ -1,0 +1,4 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import {eligible,notification,localClock} from './scheduler.mjs';
+const row={timezone:'Asia/Seoul',time:'20:00',sentDate:null,wrongCount:15,harsh:1,updatedAt:0};
+test('local time and daily dedup',()=>{const now=new Date('2026-10-29T11:00:00Z');assert.equal(localClock(now,row.timezone).time,'20:00');assert.equal(eligible(row,now),true);assert.equal(eligible({...row,sentDate:'2026-10-29'},now),false);assert.equal(eligible({...row,wrongCount:0},now),false);assert.equal(eligible(row,new Date('2026-10-29T10:59:00Z')),false)});
+test('stale counts never leak into message',()=>{const now=new Date('2026-10-29T11:00:00Z');assert.equal(notification(row,now).body,'시연이 복습을 기다리고 있어요.');assert.match(notification({...row,updatedAt:now.getTime()},now).body,/15/);assert.doesNotMatch(notification({...row,updatedAt:now.getTime(),harsh:0},now).body,/15/)});

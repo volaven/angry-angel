@@ -1,0 +1,16 @@
+{
+  "id": "blush-1",
+  "emotion": "blush",
+  "text": "오늘은 꽤 열심히 했네요. 칭찬은 아니고요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 4.56,
+  "generationSeconds": 7.537420749664307,
+  "sha256": "cdfd0eaa79f52dd5775c13d6f664224c0df2258353076e4aee6f33c026703f37",
+  "status": "generated_pending_listening"
+}

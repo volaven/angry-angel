@@ -1,0 +1,3 @@
+export function localClock(now,timezone){const p=Object.fromEntries(new Intl.DateTimeFormat('en-CA',{timeZone:timezone,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(now).map(x=>[x.type,x.value]));return {date:`${p.year}-${p.month}-${p.day}`,time:`${p.hour}:${p.minute}`};}
+export function eligible(row,now){const c=localClock(now,row.timezone);return c.time>=row.time&&row.sentDate!==c.date&&row.wrongCount>0;}
+export function notification(row,now){const fresh=now.getTime()-row.updatedAt<86400000;return {title:'시연의 시험관리실',body:row.harsh&&fresh?`아직 못 치운 문제가 ${row.wrongCount}개네요. 복습할 시간입니다.`:'시연이 복습을 기다리고 있어요.',url:'/',tag:'siyeon-daily-review'};}

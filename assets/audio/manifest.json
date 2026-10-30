@@ -1,0 +1,386 @@
+[
+  {
+    "id": "idle-0",
+    "emotion": "idle",
+    "text": "오셨네요. 오늘의 분량부터 확인하세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 3.2,
+    "generationSeconds": 6.420412302017212,
+    "sha256": "13434b9a4cf4dc39b6dec5ccefec84043d02f4ba727325a191e82599100f0073",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "idle-1",
+    "emotion": "idle",
+    "text": "책은 펼쳤나요? 시작하죠.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.4,
+    "generationSeconds": 4.168116331100464,
+    "sha256": "d08c3d4e82a90bb6ca26b9a9b993f4e1bcdb63ccbd7edf5f1094815eabffeadf",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "idle-2",
+    "emotion": "idle",
+    "text": "기다리고 있었어요. 공부하러 온 거죠?",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.72,
+    "generationSeconds": 4.571326494216919,
+    "sha256": "21a3b098006ed0d12c27f7c07314a48f196d8c38e90237818485dd1ea0934826",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "question-0",
+    "emotion": "question",
+    "text": "문제를 끝까지 읽으세요. 답은 그다음입니다.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.8,
+    "generationSeconds": 8.031324625015259,
+    "sha256": "a1fca6e3170a4df8f0607cb6224ff77d09b2eed808c142c757bc7a1bb688e02e",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "question-1",
+    "emotion": "question",
+    "text": "조건 하나도 놓치지 마세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.32,
+    "generationSeconds": 3.868666887283325,
+    "sha256": "25927e7cff54619014c1648ffca08c6d6bc8ef02f914418000f2bedc7286ab33",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "question-2",
+    "emotion": "question",
+    "text": "이번에는 근거를 가지고 고르세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.64,
+    "generationSeconds": 4.490381956100464,
+    "sha256": "8bc31df0da17b736e34b8041c2395cf9ad6ac85c8dfedd285b5ad0ad476b56f7",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "sigh-0",
+    "emotion": "sigh",
+    "text": "하아... 방금 그 문제, 초등학생도 맞출 텐데요. 공무원? 그냥 평생 방구석에나 계시죠.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 7.92,
+    "generationSeconds": 13.244971990585327,
+    "sha256": "66d0215da8677c7ead269277598ec132094cd1561b8fc252f4389bad56b3468d",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "sigh-1",
+    "emotion": "sigh",
+    "text": "한숨만 나오네요. 해설부터 읽으세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.16,
+    "generationSeconds": 7.066210031509399,
+    "sha256": "7911b40b6f19edb61249dfc1524d6637cad9328bdf57208860ecec1acd4e77ef",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "sigh-2",
+    "emotion": "sigh",
+    "text": "어디서 틀렸는지, 직접 확인하세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 3.36,
+    "generationSeconds": 5.841695547103882,
+    "sha256": "2fd5393ee00ef289207f5c6430f021fcbd488343b2eafa5ae8a79a8c6494037f",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "contempt-0",
+    "emotion": "contempt",
+    "text": "그렇게 자신 있게 틀리는 것도 재주네요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.88,
+    "generationSeconds": 5.236277103424072,
+    "sha256": "e5da21e8e379a56b7e7b81a8bbc97fe0df5bc900c35b2279ab96bd2876f27af0",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "contempt-1",
+    "emotion": "contempt",
+    "text": "두 번입니다. 우연이라고 하기 어렵겠죠.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 5.68,
+    "generationSeconds": 9.539582252502441,
+    "sha256": "42cb4db4cc5cde30ab849f0622005e7b3bfa6308095d9e933c254ffef3bd87a7",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "contempt-2",
+    "emotion": "contempt",
+    "text": "기본서를 장식으로 가지고 다니나요?",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.48,
+    "generationSeconds": 4.198223829269409,
+    "sha256": "4b6be5d75b82bd12e15c0e24d27b0d41321fc155ba1ea16be214cab034898669",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "ignore-0",
+    "emotion": "ignore",
+    "text": "설명할 가치도 없네요. 해설지나 읽으세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 3.68,
+    "generationSeconds": 6.230864763259888,
+    "sha256": "aeba3c7bc442f57d1b520d21eb70a2b2380502f0744335c389b0770d07ab6887",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "ignore-1",
+    "emotion": "ignore",
+    "text": "저는 잠시 다른 곳을 보겠습니다. 복습하세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.8,
+    "generationSeconds": 7.968490362167358,
+    "sha256": "3de216c11c795990b182937276c5d1429b822ffbfa656667ec583cab390bac24",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "ignore-2",
+    "emotion": "ignore",
+    "text": "말보다 복습이 먼저겠네요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 2.0,
+    "generationSeconds": 3.7124476432800293,
+    "sha256": "d4a69968ff1abc58de59e3399f0c882b49694b3a6aea92c39d801b35a22eae45",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "correct-0",
+    "emotion": "correct",
+    "text": "뭐, 이 정도는 기본이죠. 어쩌다 한 번 맞췄다고 우쭐대지 마세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 6.56,
+    "generationSeconds": 11.351341962814331,
+    "sha256": "75eec53c0e755ae355a9220856dcc2e1db451d789aa1290d1ae45af336d9a954",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "correct-1",
+    "emotion": "correct",
+    "text": "정답입니다. 다음에도 근거를 기억하세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 3.44,
+    "generationSeconds": 5.978689432144165,
+    "sha256": "4cce21b135439e18660d16eb64df4aa23688444f8453f5d993e51edfd7a3b5f8",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "correct-2",
+    "emotion": "correct",
+    "text": "틀리지 않았네요. 이 흐름은 유지하세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 3.36,
+    "generationSeconds": 5.629332065582275,
+    "sha256": "c3170aeab8fbc4fceec6840fab0573501f32cb15bbaf1d42c619ad74ff3ca57d",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "encourage-0",
+    "emotion": "encourage",
+    "text": "지금 텍스트 읽지도 않고 누르고 있죠? 저를 기만하지 마세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.16,
+    "generationSeconds": 7.089665174484253,
+    "sha256": "a82b1b1eff36bb9eb88c2de79b0624fbe012da273a7339f7ce315ca0fefba6ad",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "encourage-1",
+    "emotion": "encourage",
+    "text": "복습할 기회는 남아 있어요. 다시 보세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.4,
+    "generationSeconds": 7.4241392612457275,
+    "sha256": "80db85a51b6ddb535d2cc8ee68aa98838e04926b81b7ac3ccd5af5f123d834e8",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "encourage-2",
+    "emotion": "encourage",
+    "text": "시간 다 됐네요. 당신의 뇌 처리 속도에 경의를 표합니다. 안 좋은 의미로요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 7.44,
+    "generationSeconds": 12.447359323501587,
+    "sha256": "4b8651cfd223567e286a8987b248f830a685a77c1d68d74a67d210489278718a",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "blush-0",
+    "emotion": "blush",
+    "text": "조, 조금은 쓸모가 있네요. 아주 조금이요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.4,
+    "generationSeconds": 7.303539752960205,
+    "sha256": "1c01267fef6b9b5e99f2c5f5833a8699f504deb52ac58a89b2720bb14839ab49",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "blush-1",
+    "emotion": "blush",
+    "text": "오늘은 꽤 열심히 했네요. 칭찬은 아니고요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.56,
+    "generationSeconds": 7.537420749664307,
+    "sha256": "cdfd0eaa79f52dd5775c13d6f664224c0df2258353076e4aee6f33c026703f37",
+    "status": "generated_pending_listening"
+  },
+  {
+    "id": "blush-2",
+    "emotion": "blush",
+    "text": "계속 이렇게 하면... 됐어요, 다음 문제 보세요.",
+    "model": {
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+    },
+    "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+    "sampleRate": 22050,
+    "seconds": 4.88,
+    "generationSeconds": 8.105629682540894,
+    "sha256": "f85f2845917ea336555f40faf93e6f42cc9fb110bbacc2af9ddd8f4b1909ef75",
+    "status": "generated_pending_listening"
+  }
+]

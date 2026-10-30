@@ -1,0 +1,16 @@
+{
+  "id": "contempt-2",
+  "emotion": "contempt",
+  "text": "기본서를 장식으로 가지고 다니나요?",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.48,
+  "generationSeconds": 4.198223829269409,
+  "sha256": "4b6be5d75b82bd12e15c0e24d27b0d41321fc155ba1ea16be214cab034898669",
+  "status": "generated_pending_listening"
+}

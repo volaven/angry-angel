@@ -1,0 +1,530 @@
+[
+  {
+    "id": "blush",
+    "file": "public\\characters\\blush.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "1943f4f69bb6fa1dac7dbb69e7631626964d404cbfb2c147e2ae02c1863e4fe6",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/blush.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        203,
+        17,
+        935,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.51,
+        0.15
+      ],
+      "foot": [
+        0.5556640625,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.62,
+        0.48
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "df55d37006733e9d6c74d4c98530e7916e96b401552fd02a20ebec406b1b9659",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "contempt",
+    "file": "public\\characters\\contempt.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "e7f89b5d04f6562108f9e780496017efed3d9313ce4787fba87514d9f9e5cf78",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/contempt.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        204,
+        18,
+        909,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.51,
+        0.13
+      ],
+      "foot": [
+        0.54345703125,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.6,
+        0.44
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "29d81b5e1644d77efe4a7be1f4397f5c32c3e694419c1d8d0ebbc57dbb0d1639",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "correct",
+    "file": "public\\characters\\correct.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "726576241844f39ddccb56a6be7958c1e50bebfa97c29990cd7c24ecf38a1a31",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/correct.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        188,
+        9,
+        943,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.51,
+        0.14
+      ],
+      "foot": [
+        0.55224609375,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.74,
+        0.26
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "f29eb84f081ff413f83b79c9eae2c9cf51d51f1f430893169643a1f98f51bd53",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "encourage",
+    "file": "public\\characters\\encourage.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "5f0c50e22782ae4a7515f51fbe71d55c2101003e72ccceca3261445df9963d06",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/encourage.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        223,
+        9,
+        923,
+        1535
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.5,
+        0.11
+      ],
+      "foot": [
+        0.5595703125,
+        0.9993489583333334
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.43,
+        0.36
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "bdf59073fc1de452d9de8831c689304309b134403788b06ae1b6778da2d1c31b",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "english-blush",
+    "file": "public\\characters\\english-blush.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "d518c47fb65c831df01c321b21bf76eb46835f4bdeb0622c7b4306a42340fb14",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/english-blush.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        196,
+        3,
+        901,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.5,
+        0.14
+      ],
+      "foot": [
+        0.53564453125,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.59,
+        0.43
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "6e4917b8312a8deb691a6b0d69344a56d0ac68cae173410d6402bf2da4aad8b8",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "english-idle",
+    "file": "public\\characters\\english-idle.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "1d2fec96da27e3bde6e7ad7b09cce59706e4f09783f6106cd161e9eb20def24f",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/english-idle.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        205,
+        23,
+        870,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.52,
+        0.14
+      ],
+      "foot": [
+        0.52490234375,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.62,
+        0.46
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "70025572ca81e9af080b2f8d2eb90924b5ae153bce7d542901cc2739d2be2afe",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "history-blush",
+    "file": "public\\characters\\history-blush.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "3802282dbf62d979cbca5600d851ef6b26b9a470b39849c4605814bff59c9aab",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/history-blush.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        38,
+        8,
+        1008,
+        1518
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.51,
+        0.12
+      ],
+      "foot": [
+        0.5107421875,
+        0.98828125
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.59,
+        0.4
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "b5aaedd46d01a42284105b780d02351a2b02623269d53d28ffb0946ab35ea4f2",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "history-idle",
+    "file": "public\\characters\\history-idle.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "1a7cfd5f861bab97527c7112f935c6395019bf2ad7fc62a843ff28a36f75fd8b",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/history-idle.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        51,
+        10,
+        988,
+        1531
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.5,
+        0.13
+      ],
+      "foot": [
+        0.50732421875,
+        0.9967447916666666
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.59,
+        0.4
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "60040b23d2aab7ee4e9986999dfd165249dd58a1fef849b04d510ac3d59fc167",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "idle",
+    "file": "public\\characters\\idle.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "9baf642331c2bfa1fca7a6563f64f67f7b48e04ea39f0b12b7b6c01481714034",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/idle.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        209,
+        23,
+        908,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.5,
+        0.15
+      ],
+      "foot": [
+        0.54541015625,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.61,
+        0.49
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "9415b5c40b3329c71d9986764e52fb9956500cfc8b41513854e5a0a66977227a",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "ignore",
+    "file": "public\\characters\\ignore.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "1676a7fe3b13fca8f490011214053220272675f800cd65dd573be6a1589e1202",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/ignore.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        212,
+        15,
+        946,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.53,
+        0.15
+      ],
+      "foot": [
+        0.5654296875,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.64,
+        0.46
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "b94d51262bad464d355d512d766f28fd431fd602e5c67ec6b5a03164a1f67b61",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "question",
+    "file": "public\\characters\\question.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "51628c1b93b9cbe33395f00f90fe69b2739e42bdba456499b746215cf042757d",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/question.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        221,
+        60,
+        942,
+        1536
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.54,
+        0.17
+      ],
+      "foot": [
+        0.56787109375,
+        1.0
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.3,
+        0.12
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "44dbc2f97d7b45eb6e4a3e8f02eb39c47f910555fc13cc1349aae8757b5aec77",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  },
+  {
+    "id": "sigh",
+    "file": "public\\characters\\sigh.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGBA",
+    "sha256": "03736682970cc0744c07cbda3e8eed8635cbaaa7521a6aef4eef86b71150fa53",
+    "tool": "OpenAI built-in imagegen",
+    "identityReference": "idle.png",
+    "style": "1990s cel anime adult librarian",
+    "runtime": "/characters/runtime/sigh.webp",
+    "version": "ui-v2",
+    "silhouette": {
+      "threshold": 32,
+      "bounds": [
+        215,
+        10,
+        872,
+        1535
+      ]
+    },
+    "anchors": {
+      "face": [
+        0.5,
+        0.12
+      ],
+      "foot": [
+        0.53076171875,
+        0.9993489583333334
+      ],
+      "bubble": [
+        0.5,
+        0.76
+      ],
+      "hand": [
+        0.65,
+        0.18
+      ]
+    },
+    "anchorStatus": "alpha-measured silhouette; face/hand visually registered from 12-pose contact sheet",
+    "sourcePreserved": true,
+    "runtimeSHA256": "1d104257629cfe08418fd0c6e6e62d66cc3966cabd3129feba26ee0c88faa8e0",
+    "baselineType": "visible lower silhouette; cropped original poses do not contain full feet"
+  }
+]

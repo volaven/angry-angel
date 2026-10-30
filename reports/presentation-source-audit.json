@@ -1,0 +1,808 @@
+{
+  "questions": 80,
+  "lines": 1534,
+  "unmatched": 0,
+  "records": [
+    {
+      "id": "2024-0-1",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 16,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-2",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 26,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-3",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 5,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-4",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 10,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-5",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 34,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-6",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 8,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-7",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 16,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-8",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 20,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-9",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 9,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-10",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 26,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-11",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 26,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-12",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 19,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-13",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 32,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-14",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 5,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-15",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 16,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-16",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 28,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-17",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 30,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-18",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 19,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-19",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 27,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-0-20",
+      "source": "/exams/2024-0.pdf",
+      "sourceSHA256": "d03fd23e19f6359db039445e1ecb43c51a6f081fe5d726e7499169cb02216579",
+      "lineCount": 20,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-1",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 8,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-2",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 7,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-3",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 7,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-4",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 7,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-5",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 7,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-6",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 10,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-7",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 8,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-8",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 9,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-9",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 5,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-10",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 16,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-11",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 12,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-12",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 6,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-13",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 17,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-14",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 18,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-15",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 18,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-16",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 20,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-17",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 21,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-18",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 17,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-19",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 21,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2024-1-20",
+      "source": "/exams/2024-1.pdf",
+      "sourceSHA256": "51391b486a9bd7c589c5f306af5878e618c3b6898d6b4b684d27c516128a5524",
+      "lineCount": 18,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-1",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 24,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-2",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 16,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-3",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 21,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-4",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 25,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-5",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 27,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-6",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 25,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-7",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 39,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-8",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 36,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-9",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 36,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-10",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 33,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-11",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 39,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-12",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 35,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-13",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 21,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-14",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 24,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-15",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 13,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-16",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 11,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-17",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 8,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-18",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 22,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-19",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 28,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-0-20",
+      "source": "/exams/2025-0.pdf",
+      "sourceSHA256": "1425ca18b444e36d06bed016c34b48289bc4197f98e713f86e3905831237a517",
+      "lineCount": 33,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-1",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 8,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-2",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 7,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-3",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 8,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-4",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 5,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 1,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-5",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 17,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-6",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 30,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-7",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 30,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-8",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 22,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-9",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 22,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-10",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 19,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-11",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 30,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-12",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 10,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-13",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 10,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-14",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 30,
+      "unmatched": [],
+      "presentation": "material",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-15",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 29,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 2,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-16",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 21,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-17",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 19,
+      "unmatched": [],
+      "presentation": "inline-marked",
+      "answer": 4,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-18",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 17,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-19",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 21,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 3,
+      "sourceImageAvailable": true
+    },
+    {
+      "id": "2025-1-20",
+      "source": "/exams/2025-1.pdf",
+      "sourceSHA256": "a1a6520fafc7d93098e7aa770fb6e219b80681126009e73be8630aa54df1f08e",
+      "lineCount": 19,
+      "unmatched": [],
+      "presentation": "choice",
+      "answer": 4,
+      "sourceImageAvailable": true
+    }
+  ],
+  "scope": "Existing enabled question text lines vs local source PDF text. Rendering, semantic correctness and editorial review are separate checks."
+}

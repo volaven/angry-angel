@@ -1,0 +1,9 @@
+import {readdirSync,readFileSync,writeFileSync,statSync,rmSync} from 'node:fs';import {createHash} from 'node:crypto';import {join,resolve,sep} from 'node:path';
+// Voice playback was removed by user request. Retain masters in public/audio;
+// remove only their generated distribution copies, after verifying the boundary.
+const distRoot=resolve('dist');
+for(const name of ['audio','voice-review.html']){const target=resolve(distRoot,name);if(!target.startsWith(distRoot+sep))throw Error('Invalid distribution path');rmSync(target,{recursive:true,force:true});}
+const walk=d=>readdirSync(d).flatMap(n=>{const p=join(d,n);return statSync(p).isDirectory()?walk(p):[p]});const files=walk('dist').filter(p=>!p.endsWith('sw.js'));const hash=createHash('sha256');for(const p of files)hash.update(readFileSync(p));const version=hash.digest('hex').slice(0,12);const urls=files.map(p=>'/'+p.replaceAll('\\','/').slice(5));const push=readFileSync('public/sw.js','utf8');
+writeFileSync('dist/sw.js',`const CACHE='siyeon-exam-${version}';const FILES=${JSON.stringify(urls)};self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES))));self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('siyeon-exam-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>clients.claim())));self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==location.origin||u.pathname.startsWith('/push-api'))return;e.respondWith(caches.match(e.request,{ignoreVary:true}).then(c=>c||fetch(e.request).catch(()=>e.request.mode==='navigate'?caches.match('/index.html'):Response.error())))});\n`+push);
+writeFileSync('reports/offline.json',JSON.stringify({cache:version,files:files.length,bytes:files.reduce((s,p)=>s+statSync(p).size,0)},null,2));console.log('Offline cache',version,files.length,'files');
+

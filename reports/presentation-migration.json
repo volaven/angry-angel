@@ -1,0 +1,729 @@
+{
+  "count": 80,
+  "records": [
+    {
+      "id": "2024-0-1",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "16b6a352d592dd7e33ff1f7acdd06dc3b664575678d055861923dfd9c57f7268"
+    },
+    {
+      "id": "2024-0-2",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "eae43ef4840b3cb2da6f4db672d91108fc66d8c13057b9d3c169b07e2276fe92"
+    },
+    {
+      "id": "2024-0-3",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "c547051a3b5d7e19c24ee2c5acb9e60bf4e29f016fe61457964173aae53d1729"
+    },
+    {
+      "id": "2024-0-4",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "6ca58073ca6c787a3e6c6eca847e3e93f68692e18c99f3d3659569523dbee962"
+    },
+    {
+      "id": "2024-0-5",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "d18607758015774ba6ddde264db0f439c977eb3839f31476471f52b378ce3205"
+    },
+    {
+      "id": "2024-0-6",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "20f25cf07e53b17116a449613ca364b19c3301d88a457fca785b38c4ffd0762a"
+    },
+    {
+      "id": "2024-0-7",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "e60c9f5d58030f4284d1e4f59f9d81c3a6eebb41793b22682fcdf90cf4765a93"
+    },
+    {
+      "id": "2024-0-8",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "0dce02d7cf9a9a4f394a165aee3a23db8798855c29a5736139250772684c409e"
+    },
+    {
+      "id": "2024-0-9",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 2,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "8b91a521a5edcd1e9c20b64f05b26d8fc71aedd0be26f0faae6af7c4f022138b"
+    },
+    {
+      "id": "2024-0-10",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 2,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "ea072ac1e8b8cbdfb106e5197d192a0f2d0b120da8bb22b34a86d05e877ff80f"
+    },
+    {
+      "id": "2024-0-11",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "b3fbf07ac5a08eea1f218e9ba6e3179179d1019f02af7fa55c30ef536c328c9b"
+    },
+    {
+      "id": "2024-0-12",
+      "kind": "material",
+      "source": "/exams/2024-0.pdf",
+      "page": 3,
+      "answerPreserved": 4,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "7f91fa6d7e8b7e817a2064c470f8af2c6a13fa75c711c94425ebf3e5351fb07e"
+    },
+    {
+      "id": "2024-0-13",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 3,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "e0004d0cf94eb8a694c374b827dc5d7733ce6f1d0ac3f9542af945f7820f74f1"
+    },
+    {
+      "id": "2024-0-14",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 3,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "5c5f5c4705b4062c72b02fada5be9b3da202b69c4abb9f502a92f9cf66b693c2"
+    },
+    {
+      "id": "2024-0-15",
+      "kind": "material",
+      "source": "/exams/2024-0.pdf",
+      "page": 3,
+      "answerPreserved": 4,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "63ff8718edac630063d3fe8745750c9472ca8b451f93a3347f9204cc626ff313"
+    },
+    {
+      "id": "2024-0-16",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 3,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "3430d115a7907654611fdd8f3a9c072e6bfadc1a78f1d7575a7c800cd815ef73"
+    },
+    {
+      "id": "2024-0-17",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 4,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "601fa3c4f53742a33e487a24efa2ae2ab4db0518ff2fa25e66020705a17ed6a8"
+    },
+    {
+      "id": "2024-0-18",
+      "kind": "inline-marked",
+      "source": "/exams/2024-0.pdf",
+      "page": 4,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "f1e96873502f4042489e3d56a55cdd9eae4d9e21b3da8854bc010071ade617f5"
+    },
+    {
+      "id": "2024-0-19",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 4,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "08e8cdccdc332949a85255e960615401d556d680f0828b2c6a38dae26abb51bf"
+    },
+    {
+      "id": "2024-0-20",
+      "kind": "choice",
+      "source": "/exams/2024-0.pdf",
+      "page": 4,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "e1262f77fcc68aece1bff060aaec6843b72763a3bb59263e9c85c03cb1f08408"
+    },
+    {
+      "id": "2024-1-1",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "5f8bb40e6d65389d3e5face7feb6ee9684d3f0de34f8226899fa87a1b506dca1"
+    },
+    {
+      "id": "2024-1-2",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "be2755e8eaae1050242ea29bf8ad50825c9ac1a033950f47ed71b54bb15a1475"
+    },
+    {
+      "id": "2024-1-3",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "dd057f089b64ca6e805adffef10843b37b6a7e98b3d6768748c24d5db3dfab02"
+    },
+    {
+      "id": "2024-1-4",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "9b7f0674e5bd40273e5261797cf1f0d1c32eb20db24119a041e2a407e50ec368"
+    },
+    {
+      "id": "2024-1-5",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "a79ad7b80361d88517749103e0747740f0fd1a65bdf920c2caee0b3e6031def4"
+    },
+    {
+      "id": "2024-1-6",
+      "kind": "inline-marked",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "cb8006b6769f817a47ef41cb2566b0f58a3c4abe94d0883a2b88a4e36dc039bb"
+    },
+    {
+      "id": "2024-1-7",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "d52a312fc03ac04ac51d462aa26bfd8762ca91850d132edb1d292e9232535951"
+    },
+    {
+      "id": "2024-1-8",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "0aa01ce9098a59babaead55b18719a445e73ece9c653af52c3beca64cefff10a"
+    },
+    {
+      "id": "2024-1-9",
+      "kind": "material",
+      "source": "/exams/2024-1.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "c5ad324e0a44f5753d9f231827398539d04c0bcce647519903f07b2b5fcb9457"
+    },
+    {
+      "id": "2024-1-10",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 2,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "8cabad267ae9669e3ca712b55d2d1101a58b7b89fabf10037e67d2f296e693f5"
+    },
+    {
+      "id": "2024-1-11",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "07cacdd3060ac70141cfed571cff343d880ed0ea8c8459315ca973b3ceb61628"
+    },
+    {
+      "id": "2024-1-12",
+      "kind": "material",
+      "source": "/exams/2024-1.pdf",
+      "page": 2,
+      "answerPreserved": 2,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "d3f874dffbe09e9180661d6f070862f155335983af7103687565c18836446b70"
+    },
+    {
+      "id": "2024-1-13",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "e39dc500334498a9f99ddb36244983b46bf16e42ee13d2af8282299c6d5d546a"
+    },
+    {
+      "id": "2024-1-14",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 2,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "0ec8193b37d8a5c8ef2bb3cf837ceb93a8fb0ae92e59428b8e8f30351d6772e9"
+    },
+    {
+      "id": "2024-1-15",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 2,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "fea5651485c1f456864e5e9004d94550e87511a71e67f422ffbaf26115113559"
+    },
+    {
+      "id": "2024-1-16",
+      "kind": "inline-marked",
+      "source": "/exams/2024-1.pdf",
+      "page": 3,
+      "answerPreserved": 4,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "158a2bb1a0c1f901b3aac35880a34250ebed42811cb3774430b6bc6f02b7d2b3"
+    },
+    {
+      "id": "2024-1-17",
+      "kind": "inline-marked",
+      "source": "/exams/2024-1.pdf",
+      "page": 3,
+      "answerPreserved": 3,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "3c9dc01d781986a4cb2c749d3757a0ffdb7dff7a5394d314aa5fad309172ce20"
+    },
+    {
+      "id": "2024-1-18",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 3,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "b64fd1fd39dbf2d1975b17acf028d20d60682fbc57b90993be67158a392ebed1"
+    },
+    {
+      "id": "2024-1-19",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 3,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "57d55fa6924d62faa4be61d8d71a9fae6346d1cd5f5d7b7dd552c47805d1bfbe"
+    },
+    {
+      "id": "2024-1-20",
+      "kind": "choice",
+      "source": "/exams/2024-1.pdf",
+      "page": 3,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "625d764f57d2b8d827e254d6171586f3b4525e17922975744409330ba41be35a"
+    },
+    {
+      "id": "2025-0-1",
+      "kind": "material",
+      "source": "/exams/2025-0.pdf",
+      "page": 1,
+      "answerPreserved": 3,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "6363254f64c734469955ab986e8cc74ff18b21746d2ed3bf5646a4ec8d289cb7"
+    },
+    {
+      "id": "2025-0-2",
+      "kind": "material",
+      "source": "/exams/2025-0.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "a77b7e81bc2a69145f61bf592be5250f1bcd34d33e5100d058b729b52ca3877f"
+    },
+    {
+      "id": "2025-0-3",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "af3419fd15226c51da12dafdc150aeee47df3cfb70d2a2b4fa3be22fbe208b81"
+    },
+    {
+      "id": "2025-0-4",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 1,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "2b75d1d9d817bf67ad735977c75723538a3c83c8880064417727d4656b17dcff"
+    },
+    {
+      "id": "2025-0-5",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "58b58b12b06240af35384ded35b4900dbf4fd41e0947403b41e051c0257cbdc8"
+    },
+    {
+      "id": "2025-0-6",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 2,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "ba58764d3d2fc1fef6c93f074eb803f0f57d9872a3f835f5c5c18d51ee87eed5"
+    },
+    {
+      "id": "2025-0-7",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 2,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "424cbbef7993da5a6e05dafc13b0b1e5053e3fa7d443419e8b9d0ae6fdceece7"
+    },
+    {
+      "id": "2025-0-8",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 2,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "ab87943be59f3b9977073c29eee1dda21583f11177bbab19b2a32c2d5807522e"
+    },
+    {
+      "id": "2025-0-9",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 3,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "eabff7429528d9b643c0990c16c5e2b017ce60e8ed0b4cf0470214441c54fd43"
+    },
+    {
+      "id": "2025-0-10",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 3,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "2335c37411ef7ebac5d0bb8dcb8069bd73b110c81b2b1da034b42862138a83b1"
+    },
+    {
+      "id": "2025-0-11",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 3,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "9e086d77729b8f086db01635261b64bfa7350b8b89b3a2a24691973ab4bac1c3"
+    },
+    {
+      "id": "2025-0-12",
+      "kind": "inline-marked",
+      "source": "/exams/2025-0.pdf",
+      "page": 3,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "7be1adc327ccdffb9cb876a79cfcf2787fe655347f5e3d2d2c76291fb513a055"
+    },
+    {
+      "id": "2025-0-13",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 4,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "9d0cbb7757bc32750d8bcd488a7ce5acf0b2260c61a29a9f548ff5071f1e084f"
+    },
+    {
+      "id": "2025-0-14",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 4,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "0489e18d85446a2c49f48a36b0f83d014d262be833e74fc878719f5a22b310d0"
+    },
+    {
+      "id": "2025-0-15",
+      "kind": "material",
+      "source": "/exams/2025-0.pdf",
+      "page": 4,
+      "answerPreserved": 3,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "5c5967d444add58dce09013b83d9d74713d0f71596c884e6f8ac34980dc41397"
+    },
+    {
+      "id": "2025-0-16",
+      "kind": "material",
+      "source": "/exams/2025-0.pdf",
+      "page": 4,
+      "answerPreserved": 3,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "756b83183d8d7223b3d75505fc96f016796b08d42f5831d7fb13145f18768f45"
+    },
+    {
+      "id": "2025-0-17",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 4,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "801c94f1f5e3a56de280993ffbbc3022593663b94bb50700f68a1dd0d5eea1c8"
+    },
+    {
+      "id": "2025-0-18",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 5,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "68477c5d6252f3a1140df94a5c47b342991bf9d6f6bfb0718158d412e0a4bcbd"
+    },
+    {
+      "id": "2025-0-19",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 5,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "0022382c331a0fcffdc0571e3d48eb6645b3a2aa68cde4bead26e39833f26dd4"
+    },
+    {
+      "id": "2025-0-20",
+      "kind": "choice",
+      "source": "/exams/2025-0.pdf",
+      "page": 5,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "5f3ba6e4903491bff38c0b5e9eda997f7396645f1a77b5b76480760d87edb627"
+    },
+    {
+      "id": "2025-1-1",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "87581fac780cec1789009b2ba932952dcbc54b4f1b5aac3e53566732e60e8010"
+    },
+    {
+      "id": "2025-1-2",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "6397c6605b9700b92a69237c7b3d514dfdd67f80f34cae67a057914c0fc895c9"
+    },
+    {
+      "id": "2025-1-3",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "724c33dcfa6d5c8edf2c4227862763ad438c0faa9d7ad20e5b65bcd0844d7747"
+    },
+    {
+      "id": "2025-1-4",
+      "kind": "material",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 1,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "7877102a04a7ad5efb06a98a962ad95ab2ecd1d3e685a967294bd2e9f225e627"
+    },
+    {
+      "id": "2025-1-5",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "721acd3f0036bf12e33a4c320168169ccb3133154577a09443b7e789c8ec2723"
+    },
+    {
+      "id": "2025-1-6",
+      "kind": "material",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 2,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "989dfeaced4f3c31819cebe1f12a85f26565642a49df1edf9432918558de327f"
+    },
+    {
+      "id": "2025-1-7",
+      "kind": "material",
+      "source": "/exams/2025-1.pdf",
+      "page": 1,
+      "answerPreserved": 4,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "9657025865cb859df9b48f7909b434507d71ed598f3cd5bb538ac8c66d88db87"
+    },
+    {
+      "id": "2025-1-8",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "1c3b873a8eef641b26381ff24c68e303804d86f4481d9d1856e4c3fbbbd5dd6d"
+    },
+    {
+      "id": "2025-1-9",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 2,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "72fd7ab976c560df9c134166972fc18108aa9991f10319baad2d79258b5952f4"
+    },
+    {
+      "id": "2025-1-10",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "7b52a2ee29890b1b0db15b5e48b1ed8ed2f00476aa879c81202098bce5eea3ae"
+    },
+    {
+      "id": "2025-1-11",
+      "kind": "material",
+      "source": "/exams/2025-1.pdf",
+      "page": 2,
+      "answerPreserved": 3,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "5c634fde207d401f7d0166224d69ea57e9e72f6e2a13a0578fea92e44d202fdb"
+    },
+    {
+      "id": "2025-1-12",
+      "kind": "inline-marked",
+      "source": "/exams/2025-1.pdf",
+      "page": 2,
+      "answerPreserved": 4,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "c9fca9c526e4d4cb843a8a565db194864b073430556992dad330d03ccbc05670"
+    },
+    {
+      "id": "2025-1-13",
+      "kind": "inline-marked",
+      "source": "/exams/2025-1.pdf",
+      "page": 2,
+      "answerPreserved": 4,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "d6a46127e57c657dd74667f5009c205cc220dfbc93e92844f58e0cb689aba21c"
+    },
+    {
+      "id": "2025-1-14",
+      "kind": "material",
+      "source": "/exams/2025-1.pdf",
+      "page": 3,
+      "answerPreserved": 4,
+      "sourceStatus": "original-material-preserved",
+      "originalSHA256": "ca50b10cc8d9b9f02ffcf0003d4bfbb0e846eefa42c7bc4c89aeb23e5d3ac85b"
+    },
+    {
+      "id": "2025-1-15",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 3,
+      "answerPreserved": 2,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "6a1f85831308c82d53700c2c276f2eefbc4a3fbfc6797f6738c2d6beed5db3ec"
+    },
+    {
+      "id": "2025-1-16",
+      "kind": "inline-marked",
+      "source": "/exams/2025-1.pdf",
+      "page": 4,
+      "answerPreserved": 4,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "ba4afe91c5b0a11fb32bc20e39bae1f5ba8430735e68c9d82199b5003ca7126c"
+    },
+    {
+      "id": "2025-1-17",
+      "kind": "inline-marked",
+      "source": "/exams/2025-1.pdf",
+      "page": 4,
+      "answerPreserved": 4,
+      "sourceStatus": "inline-source-corrected",
+      "originalSHA256": "00efd18f9223dfeee19b77e9eca09639504ee7ed76dc6262dfc0fa31cdceb61c"
+    },
+    {
+      "id": "2025-1-18",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 4,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "3b116f543922d1d31aa1c1a9cf5357264adb327ba0320fdc3fe83f6b8b75886c"
+    },
+    {
+      "id": "2025-1-19",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 4,
+      "answerPreserved": 3,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "3205b8f92968a1015528589080f4a29a4cb54f78dd11b082f8773f6cd5840396"
+    },
+    {
+      "id": "2025-1-20",
+      "kind": "choice",
+      "source": "/exams/2025-1.pdf",
+      "page": 4,
+      "answerPreserved": 4,
+      "sourceStatus": "source-text-crosschecked",
+      "originalSHA256": "54e43bb2585ce51310806de0bebf5a639093ee6c19230d729d4075f75f568879"
+    }
+  ],
+  "limitations": [
+    "80문항의 원문 텍스트 연결·표현 구조 검사와 주요 표시형·자료형의 시각 대조를 구분한다. 80문항 전체의 사람에 의한 문장 교정은 미완료.",
+    "원본 문단/서식이 중요한 13문항은 텍스트를 추정하여 다시 쓰지 않고 원문 자료를 표시한다."
+  ]
+}

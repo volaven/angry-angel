@@ -1,0 +1,22 @@
+{
+  "runId": "ui-comparison-fixed",
+  "questionId": "2024-0-1",
+  "voice": false,
+  "random": 0,
+  "viewports": [
+    [
+      1440,
+      900
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "screenshots": [
+    "before-1440x900.png",
+    "after-1440x900.png",
+    "before-390x844.png",
+    "after-390x844.png"
+  ]
+}

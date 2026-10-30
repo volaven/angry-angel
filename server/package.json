@@ -1,0 +1,1 @@
+{"name":"siyeon-push","version":"0.1.0","private":true,"type":"module","engines":{"node":">=22.13"},"scripts":{"start":"node index.mjs","test":"node --test *.test.mjs","keys":"web-push generate-vapid-keys"},"dependencies":{"express":"^5.1.0","web-push":"^3.6.7"}}

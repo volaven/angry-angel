@@ -1,0 +1,11 @@
+import {chromium} from '@playwright/test';
+const browser=await chromium.launch({headless:true,channel:'msedge'});
+const page=await browser.newPage({viewport:{width:1440,height:900}});page.on('pageerror',console.log);
+await page.goto('http://127.0.0.1:4176');await page.evaluate(()=>document.fonts.ready);
+await page.screenshot({path:'reports/screens/new-entry.png'});
+await page.locator('[data-action="home"]').click();await page.screenshot({path:'reports/screens/new-hub.png'});
+await page.locator('[data-action="subjects"]').click();await page.locator('[data-action="subject:국어"]').click();
+await page.screenshot({path:'reports/screens/new-play.png'});
+await page.setViewportSize({width:390,height:844});await page.screenshot({path:'reports/screens/new-mobile.png',fullPage:true});
+await page.setViewportSize({width:667,height:375});await page.screenshot({path:'reports/screens/new-landscape.png'});
+await browser.close();

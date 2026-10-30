@@ -1,0 +1,12 @@
+services:
+  push:
+    build: ./server
+    ports: ["127.0.0.1:4186:4186"]
+    environment:
+      VAPID_PUBLIC_KEY: ${VAPID_PUBLIC_KEY}
+      VAPID_PRIVATE_KEY: ${VAPID_PRIVATE_KEY}
+      VAPID_SUBJECT: ${VAPID_SUBJECT}
+    volumes: ["push-data:/data"]
+    restart: unless-stopped
+volumes:
+  push-data:

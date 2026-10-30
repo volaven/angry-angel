@@ -1,0 +1,16 @@
+{
+  "id": "encourage-2",
+  "emotion": "encourage",
+  "text": "시간 다 됐네요. 당신의 뇌 처리 속도에 경의를 표합니다. 안 좋은 의미로요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 7.44,
+  "generationSeconds": 12.447359323501587,
+  "sha256": "4b8651cfd223567e286a8987b248f830a685a77c1d68d74a67d210489278718a",
+  "status": "generated_pending_listening"
+}

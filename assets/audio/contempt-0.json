@@ -1,0 +1,16 @@
+{
+  "id": "contempt-0",
+  "emotion": "contempt",
+  "text": "그렇게 자신 있게 틀리는 것도 재주네요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.88,
+  "generationSeconds": 5.236277103424072,
+  "sha256": "e5da21e8e379a56b7e7b81a8bbc97fe0df5bc900c35b2279ab96bd2876f27af0",
+  "status": "generated_pending_listening"
+}

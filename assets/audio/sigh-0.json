@@ -1,0 +1,16 @@
+{
+  "id": "sigh-0",
+  "emotion": "sigh",
+  "text": "하아... 방금 그 문제, 초등학생도 맞출 텐데요. 공무원? 그냥 평생 방구석에나 계시죠.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 7.92,
+  "generationSeconds": 13.244971990585327,
+  "sha256": "66d0215da8677c7ead269277598ec132094cd1561b8fc252f4389bad56b3468d",
+  "status": "generated_pending_listening"
+}

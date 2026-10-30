@@ -1,0 +1,16 @@
+{
+  "id": "idle-1",
+  "emotion": "idle",
+  "text": "책은 펼쳤나요? 시작하죠.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.4,
+  "generationSeconds": 4.168116331100464,
+  "sha256": "d08c3d4e82a90bb6ca26b9a9b993f4e1bcdb63ccbd7edf5f1094815eabffeadf",
+  "status": "generated_pending_listening"
+}

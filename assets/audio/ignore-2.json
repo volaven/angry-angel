@@ -1,0 +1,16 @@
+{
+  "id": "ignore-2",
+  "emotion": "ignore",
+  "text": "말보다 복습이 먼저겠네요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 2.0,
+  "generationSeconds": 3.7124476432800293,
+  "sha256": "d4a69968ff1abc58de59e3399f0c882b49694b3a6aea92c39d801b35a22eae45",
+  "status": "generated_pending_listening"
+}

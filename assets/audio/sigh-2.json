@@ -1,0 +1,16 @@
+{
+  "id": "sigh-2",
+  "emotion": "sigh",
+  "text": "어디서 틀렸는지, 직접 확인하세요.",
+  "model": {
+    "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+    "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+    "path": "C:\\Users\\sisio\\.cache\\huggingface\\hub\\models--Qwen--Qwen3-TTS-12Hz-1.7B-CustomVoice\\snapshots\\0c0e3051f131929182e2c023b9537f8b1c68adfe"
+  },
+  "instruct": "A mature Korean woman with a low, cool, composed librarian voice. Clear Korean consonants, measured natural pace, dry restrained delivery, never shouting or squeaky. Speak as a strict adult exam tutor.",
+  "sampleRate": 22050,
+  "seconds": 3.36,
+  "generationSeconds": 5.841695547103882,
+  "sha256": "2fd5393ee00ef289207f5c6430f021fcbd488343b2eafa5ae8a79a8c6494037f",
+  "status": "generated_pending_listening"
+}

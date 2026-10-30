@@ -1,0 +1,21 @@
+{
+  "browser": "Edge desktop headless",
+  "reload": true,
+  "answerRestoration": true,
+  "assets": [
+    {
+      "url": "/characters/runtime/english-blush.webp",
+      "ok": true
+    },
+    {
+      "url": "/exams/2024-1.pdf",
+      "ok": true
+    },
+    {
+      "url": "/exams/material-2025-1-4-0.webp",
+      "ok": true
+    }
+  ],
+  "voiceExcluded": true,
+  "physicalDevice": false
+}
