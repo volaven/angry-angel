@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-02",
+  "files": [
+    {
+      "path": "src/main.ts",
+      "sha256": "479db946822a726c6c83221fb310321b7e4b76dcbf84b18d3bf71cb3c52c64e1"
+    },
+    {
+      "path": "src/landscape.ts",
+      "sha256": "2e46a39862329d093c5ac1cfcc4483191fdb61f00a95f04385b3be7033f2f322"
+    },
+    {
+      "path": "src/landscape-ui.css",
+      "sha256": "19a94f2a74eff51ceac5b0db6bd73bb3ecc1d228c71802ea3c36add2ebae9981"
+    },
+    {
+      "path": "src/paged-reader.ts",
+      "sha256": "32827d322e4f0c75860e46ab9aabce7937008847131739d43b727bb27fb069b5"
+    },
+    {
+      "path": "src/subject-art.ts",
+      "sha256": "c298c124b61cc130b80296fccf7e94d9bf4d03881bbaa6497d10de563d579fdb"
+    },
+    {
+      "path": "src/ui-contract.ts",
+      "sha256": "c3f446d6a96aa21d132a40423cb69bf996791b61349bd2024ed676d613de49fa"
+    },
+    {
+      "path": "src/bank.json",
+      "sha256": "540f7f4cc132a9a035ae201cd08b991fdb7950716aace82a82c8f1b2f275d802"
+    },
+    {
+      "path": "src/lesson-view.ts",
+      "sha256": "d1bc79474df01125758efb609ac25845f897b9d60475f342daf5d3e7cf294027"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "6857fe8c25601029e4c554272caf66b24e3d321bdbc5d780db7d49a4ed570694"
+    }
+  ],
+  "art": [
+    {
+      "id": "korean",
+      "source": "assets\\ui-v4\\korean.png",
+      "runtime": "/ui-v4/korean.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 368392,
+      "sha256": "8e283322519568b4c286a54255b3787e96aae2513212d6920fea32db1b4b3523",
+      "tool": "built-in image_gen",
+      "date": "2026-11-02",
+      "prompt": "prompts.json#korean"
+    },
+    {
+      "id": "english",
+      "source": "assets\\ui-v4\\english.png",
+      "runtime": "/ui-v4/english.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 375764,
+      "sha256": "8162a67e9503abe3ad5df53252dfaa42d0d028525f97ce1830a823f8937230f1",
+      "tool": "built-in image_gen",
+      "date": "2026-11-02",
+      "prompt": "prompts.json#english"
+    },
+    {
+      "id": "history",
+      "source": "assets\\ui-v4\\history.png",
+      "runtime": "/ui-v4/history.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 364868,
+      "sha256": "667dd5b2825b7bf549987d0ac7c2c8723f82935403b8e5b3d8d8447e361baa8b",
+      "tool": "built-in image_gen",
+      "date": "2026-11-02",
+      "prompt": "prompts.json#history"
+    },
+    {
+      "id": "law",
+      "source": "assets\\ui-v4\\law.png",
+      "runtime": "/ui-v4/law.webp",
+      "size": [
+        1024,
+        1024
+      ],
+      "bytes": 332346,
+      "sha256": "c829116a27507524076ca944c7a40a6fb513f2af7ffbea0095a47ac06248d75b",
+      "tool": "built-in image_gen",
+      "date": "2026-11-02",
+      "prompt": "prompts.json#law"
+    }
+  ]
+}

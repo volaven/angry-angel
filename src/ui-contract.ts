@@ -1,7 +1,7 @@
 export type ScreenId = 'entry'|'home'|'subjects'|'mocks'|'play'|'result'|'wrong'|'settings'|'wardrobe'|'history'|'sources'|'inspect'|'pause';
 type Contract={family:'entry'|'selection'|'lesson'|'result'|'dialogue'|'dedicated';title:string;back:ScreenId;layout:string;actions:readonly string[]};
 export const SCREENS:Record<ScreenId,Contract>={
- entry:{family:'entry',title:'시연의 시험관리실',back:'entry',layout:'title-art',actions:['settings']},
+ entry:{family:'entry',title:'',back:'entry',layout:'title-art',actions:['settings']},
  home:{family:'selection',title:'학습 메뉴',back:'entry',layout:'cards-4',actions:['settings']},
  subjects:{family:'selection',title:'과목 학습',back:'home',layout:'cards-4',actions:['settings']},
  mocks:{family:'selection',title:'실전 모의고사',back:'home',layout:'cards-2',actions:['settings']},
@@ -17,7 +17,7 @@ export const SCREENS:Record<ScreenId,Contract>={
 };
 export const isLandscapePhone=(width:number,height:number)=>width>height&&height<=600&&width<=1200;
 // All in-app content uses fixed viewport pages; external source PDFs are exempt.
-export const CONTENT_CONTRACT={scroll:false,lessonTabs:['passage','answers','explanation','source'],bodyFont:18,minimumBodyFont:16,phoneTouch:64,desktopTouch:80,externalDocumentScrolling:true} as const;
+export const CONTENT_CONTRACT={scroll:false,lessonTabs:['passage','answers','explanation','source'],orientation:'landscape',portraitBehavior:'rotation-guide',bodyFont:24,minimumBodyFont:20,phoneTouch:64,desktopTouch:80,externalDocumentScrolling:true} as const;
 export const escapeHTML=(s:unknown)=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]!));
 // Markup/attributes are internal templates. All content interpolations must be escaped first.
 export function renderButton(markup:string,action:string,classes='',attrs=''){

@@ -1,0 +1,71 @@
+{
+  "browser": "Edge desktop headless",
+  "reload": true,
+  "answerRestoration": true,
+  "tabRestoration": true,
+  "assets": [
+    {
+      "url": "/characters/runtime/english-blush.webp",
+      "ok": true
+    },
+    {
+      "url": "/exams/2024-1.pdf",
+      "ok": true
+    },
+    {
+      "url": "/exams/material-2025-1-4-0.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/library.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/assignment.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/books.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/exam.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/waste.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/frame.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/dialogue.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v3/button-v2.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v4/korean.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v4/english.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v4/history.webp",
+      "ok": true
+    },
+    {
+      "url": "/ui-v4/law.webp",
+      "ok": true
+    }
+  ],
+  "voiceExcluded": true,
+  "errors": [],
+  "physicalDevice": false
+}

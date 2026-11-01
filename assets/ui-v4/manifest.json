@@ -1,0 +1,58 @@
+[
+  {
+    "id": "korean",
+    "source": "assets\\ui-v4\\korean.png",
+    "runtime": "/ui-v4/korean.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 368392,
+    "sha256": "8e283322519568b4c286a54255b3787e96aae2513212d6920fea32db1b4b3523",
+    "tool": "built-in image_gen",
+    "date": "2026-11-02",
+    "prompt": "prompts.json#korean"
+  },
+  {
+    "id": "english",
+    "source": "assets\\ui-v4\\english.png",
+    "runtime": "/ui-v4/english.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 375764,
+    "sha256": "8162a67e9503abe3ad5df53252dfaa42d0d028525f97ce1830a823f8937230f1",
+    "tool": "built-in image_gen",
+    "date": "2026-11-02",
+    "prompt": "prompts.json#english"
+  },
+  {
+    "id": "history",
+    "source": "assets\\ui-v4\\history.png",
+    "runtime": "/ui-v4/history.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 364868,
+    "sha256": "667dd5b2825b7bf549987d0ac7c2c8723f82935403b8e5b3d8d8447e361baa8b",
+    "tool": "built-in image_gen",
+    "date": "2026-11-02",
+    "prompt": "prompts.json#history"
+  },
+  {
+    "id": "law",
+    "source": "assets\\ui-v4\\law.png",
+    "runtime": "/ui-v4/law.webp",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 332346,
+    "sha256": "c829116a27507524076ca944c7a40a6fb513f2af7ffbea0095a47ac06248d75b",
+    "tool": "built-in image_gen",
+    "date": "2026-11-02",
+    "prompt": "prompts.json#law"
+  }
+]

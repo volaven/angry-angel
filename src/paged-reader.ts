@@ -1,3 +1,4 @@
+import {needsRotation} from './landscape';
 import {escapeHTML as esc,renderButton as button} from './ui-contract';
 
 export interface Bookmark {block:number;offset:number}
@@ -31,15 +32,15 @@ function sourceElements(template:HTMLTemplateElement){return Array.from(template
 function serialized(el:HTMLElement){return el.outerHTML.replace(/^(<pre\b[^>]*>)(\n)/,'$1\n$2');}
 
 export async function mountBooks(positions:ReadingPositions,save:()=>void){
- const version=++generation;books=[];
- await document.fonts.ready;if(version!==generation)return;
+ const version=++generation;if(needsRotation(innerWidth,innerHeight))return;books=[];
+ await document.fonts.ready;if(version!==generation||needsRotation(innerWidth,innerHeight))return;
  for(const host of document.querySelectorAll<HTMLElement>('.paged-reader')){
   const template=host.querySelector<HTMLTemplateElement>('template')!;
   const win=host.querySelector<HTMLElement>('.page-window')!;const key=host.dataset.book!;
   const h=Math.floor(win.getBoundingClientRect().height),w=win.getBoundingClientRect().width;if(h<40||w<40)continue;
   win.style.setProperty('--page-height',h+'px');
   const probe=document.createElement('div');probe.className='page-window page-probe';probe.style.width=w+'px';probe.style.setProperty('--page-height',h+'px');host.append(probe);
-  const fits=(el:HTMLElement)=>{probe.replaceChildren(el);return el.getBoundingClientRect().height<=h-2&&el.scrollWidth<=w+1;};
+  const fits=(el:HTMLElement)=>{probe.replaceChildren(el);const style=getComputedStyle(el);const occupied=el.getBoundingClientRect().height+parseFloat(style.marginTop)+parseFloat(style.marginBottom);return occupied<=h-2&&el.scrollWidth<=w+1;};
   const pieces:Piece[]=[];const originals=sourceElements(template);
   originals.forEach((el,block)=>{
    if(el.matches('figure,.image-page')){pieces.push({html:el.outerHTML,block,start:0,end:1});return;}
@@ -68,7 +69,7 @@ export async function mountBooks(positions:ReadingPositions,save:()=>void){
   book.draw=()=>{const page=book.pages[book.page];win.innerHTML=page.map(p=>p.html).join('');Array.from(win.children).forEach((el,i)=>{(el as HTMLElement).dataset.sourceBlock=String(page[i].block);(el as HTMLElement).dataset.sourceStart=String(page[i].start);});host.dataset.ready='true';host.dataset.page=String(book.page);host.dataset.pages=String(pages.length);host.querySelector('.page-count')!.textContent=`${book.page+1} / ${pages.length}`;
    (host.querySelector('[data-turn="-1"]') as HTMLButtonElement).disabled=book.page===0;(host.querySelector('[data-turn="1"]') as HTMLButtonElement).disabled=book.page===pages.length-1;
    if(page[0])positions[key]={block:page[0].block,offset:page[0].start};save();};
-  host.onclick=e=>{const turn=(e.target as HTMLElement).closest<HTMLElement>('[data-turn]');if(!turn||(turn as HTMLButtonElement).disabled)return;book.page=Math.max(0,Math.min(pages.length-1,book.page+Number(turn.dataset.turn)));book.draw();};
+  host.onclick=e=>{if(needsRotation(innerWidth,innerHeight))return;const turn=(e.target as HTMLElement).closest<HTMLElement>('[data-turn]');if(!turn||(turn as HTMLButtonElement).disabled)return;book.page=Math.max(0,Math.min(pages.length-1,book.page+Number(turn.dataset.turn)));book.draw();};
   books.push(book);book.draw();
  }
 }
