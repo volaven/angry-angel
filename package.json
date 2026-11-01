@@ -8,8 +8,8 @@
     "build": "tsc --noEmit && vite build && node scripts/offline.mjs",
     "test": "tsx --test tests/*.test.ts",
     "preview": "vite preview --host 127.0.0.1 --port 4176 --strictPort",
-    "test:ui": "tsx scripts/ui-contract-audit.mjs",
-    "test:flow": "tsx scripts/ui-flow-audit.mjs"
+    "test:ui": "tsx scripts/paged-audit.mjs",
+    "test:flow": "tsx scripts/paged-flow-audit.mjs"
   },
   "devDependencies": {
     "vite": "^7.3.0",

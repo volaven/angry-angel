@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-02",
+  "files": [
+    {
+      "path": "src/main.ts",
+      "sha256": "7fbe3f019781e5d540dda332e375e90ba3fb6c515c1e8e04aee04837603a71c8"
+    },
+    {
+      "path": "src/paged-reader.ts",
+      "sha256": "b658488d43f28d8ce0fc1814040d761100a5ab124c61a9945260b1ce0b3a31bf"
+    },
+    {
+      "path": "src/paged-ui.css",
+      "sha256": "7deea13ec8bf9dbba00be42609124ec355c99957fea02ada6b4e885fb9fbbd6d"
+    },
+    {
+      "path": "src/lesson-view.ts",
+      "sha256": "d1bc79474df01125758efb609ac25845f897b9d60475f342daf5d3e7cf294027"
+    },
+    {
+      "path": "src/navigation.ts",
+      "sha256": "07a2278a6f49bd3046207aa2cc6c38012fa92d417dc31fa19ac896f14f935840"
+    },
+    {
+      "path": "src/bank.json",
+      "sha256": "540f7f4cc132a9a035ae201cd08b991fdb7950716aace82a82c8f1b2f275d802"
+    },
+    {
+      "path": "src/question-presentations.json",
+      "sha256": "b0927eec002d1359d457acc83b78dca3934a0c53bf9d9940a8795c1794660d26"
+    }
+  ],
+  "uiAssetCount": 8,
+  "offline": {
+    "cache": "74c00ee98432",
+    "files": 281,
+    "bytes": 48222760
+  },
+  "physicalDevice": false
+}

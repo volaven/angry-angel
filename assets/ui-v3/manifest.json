@@ -1,0 +1,162 @@
+[
+  {
+    "id": "library",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Quiet cel-anime library, navy ivory burgundy, open center, no characters or text",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/library.png",
+    "runtime": "/ui-v3/library.webp",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "originalSha256": "ef51ea4a997b8373c3f1b2a91e13ae612a083b53ff5e5c21804a8ab1b6004fc6",
+    "sha256": "d66e9163766a49858614dad9206409ed58d601b10a1290079b40d47f7c14223e",
+    "bytes": 260840
+  },
+  {
+    "id": "assignment",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Burgundy assignment folder, ivory pages, brass clip and wax seal, isolated transparent",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/assignment.png",
+    "runtime": "/ui-v3/assignment.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "originalSha256": "3055c190b627d598a77469ebb854a329e4ce1137a8526c2415c0ae59488c3606",
+    "sha256": "2001ea38b507866bea6305c4605dce6a9d0d531f8ac70bae08107266f4924d5a",
+    "bytes": 99276
+  },
+  {
+    "id": "books",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Three navy and burgundy academic books, ribbon, isolated transparent",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/books.png",
+    "runtime": "/ui-v3/books.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "originalSha256": "5c56e24c5ff02857ce0fd884fe8a81208340cc7e2d2ea00826f763e42a041881",
+    "sha256": "f3bf61224dfaf883004314a24580821a32c3ca3db4133f6b8093b8f00a3eb3e6",
+    "bytes": 102208
+  },
+  {
+    "id": "exam",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Ivory exam clipboard, brass clock, burgundy pen, isolated transparent",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/exam.png",
+    "runtime": "/ui-v3/exam.webp",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "originalSha256": "071d985c9b1b0630b7208b88c531ed6acb8111306c6a0f98a4a74eb7db46c340",
+    "sha256": "ea3c94555edd2dfeb024539268129e5e0c8c2c0eae3dd2f995198b3b22faca2e",
+    "bytes": 82904
+  },
+  {
+    "id": "waste",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Navy brass wastepaper basket and crumpled ivory paper, isolated transparent",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/waste.png",
+    "runtime": "/ui-v3/waste.webp",
+    "dimensions": [
+      1312,
+      1199
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "originalSha256": "fb8fe0c2ac803a62b607acdf14aa78942a247a4b272e943016d97a7d32c0426a",
+    "sha256": "64f29b30bd4c7c3b50e8b70190a6ba988bef98b7d8880489c307b0e95bcc396e",
+    "bytes": 114698
+  },
+  {
+    "id": "frame",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Front-facing ivory document frame, thin double brass rim, burgundy corners, no text",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/frame.png",
+    "runtime": "/ui-v3/frame.webp",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "originalSha256": "1c9d49aa49e095fa4dc8f3c170016f75c6411d5fb51d42b89d2eeaf41ff8c7a6",
+    "sha256": "d14f9faad63a6c5491bb668f82c4fa4ca3bb13355b25feb9920ec386d1ae1b89",
+    "bytes": 168008
+  },
+  {
+    "id": "dialogue",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Navy dialogue panel and integrated blank nameplate, antique gold border, no text",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/dialogue.png",
+    "runtime": "/ui-v3/dialogue.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "originalSha256": "d420ee4a625d4714fb6e939071a62692127285429bcf604444e156993688c886",
+    "sha256": "d10aed1dfd5c966060dd12967a427a8d808963345eb2905161f54750aa259b7e",
+    "bytes": 16858
+  },
+  {
+    "id": "button-v2",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v3",
+    "generationBrief": "Edge-to-edge burgundy leather action plaque, thin straight gold double rim, no transparent padding or text",
+    "style": "1990s cel anime; crisp dark ink, navy/ivory/burgundy/antique brass; no words, logo or watermark",
+    "original": "assets/ui-v3/button-v2.png",
+    "runtime": "/ui-v3/button-v2.webp",
+    "dimensions": [
+      2056,
+      765
+    ],
+    "alphaExtrema": [
+      255,
+      255
+    ],
+    "originalSha256": "169545fd776f1c0c5b197a019456bda121cc1e6d4342867d587dcac040185141",
+    "sha256": "95757d7b331eaef642c53c6535c2bc7622eb3efac4586f7f046ea292c078fb19",
+    "bytes": 70734
+  }
+]

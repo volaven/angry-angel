@@ -16,6 +16,8 @@ export const SCREENS:Record<ScreenId,Contract>={
  pause:{family:'dialogue',title:'잠시 쉬어가기',back:'play',layout:'pause',actions:['settings']},
 };
 export const isLandscapePhone=(width:number,height:number)=>width>height&&height<=600&&width<=1200;
+// All in-app content uses fixed viewport pages; external source PDFs are exempt.
+export const CONTENT_CONTRACT={scroll:false,lessonTabs:['passage','answers','explanation','source'],bodyFont:18,minimumBodyFont:16,phoneTouch:64,desktopTouch:80,externalDocumentScrolling:true} as const;
 export const escapeHTML=(s:unknown)=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]!));
 // Markup/attributes are internal templates. All content interpolations must be escaped first.
 export function renderButton(markup:string,action:string,classes='',attrs=''){
