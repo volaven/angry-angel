@@ -2,6 +2,7 @@ import './style.css';
 import './paged-ui.css';
 import './landscape-ui.css';
 import './game-ui.css';
+import './image-ui.css';
 import {CharacterDirector} from './character-director';
 const director=new CharacterDirector();
 import {subjectArt} from './subject-art';

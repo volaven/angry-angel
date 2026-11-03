@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-04",
+  "method": "independent review of six existing screenshots",
+  "verdict": "ship",
+  "blockingFindings": [],
+  "checked": ["entry-844x390.png", "home-667x375.png", "play-2024-0-1-844x390.png", "answers-844x390.png", "feedback-844x390.png", "subjects-844x390.png"],
+  "physicalDevice": false
+}

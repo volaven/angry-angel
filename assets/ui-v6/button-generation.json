@@ -1,0 +1,22 @@
+[
+  {
+    "id": "primary-button",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v6",
+    "prompt": "Use case: stylized-concept. Production UI asset for a Korean adult study visual novel in a 1990s cel-anime magical library. Generate ONE blank BURGUNDY BUTTON FACE, wide 3:1 rectangle, intended for CSS nine-slice scaling. The artwork fills the entire image edge to edge; no outer scene or margin. Rich deep burgundy leather center (#782d44 family), clean dark outlines, subtle painted bevel along narrow rim, elegant antique brass fine double frame and restrained small symmetrical bookbinding corner flourishes. Corners subtly rounded. Center 75 percent is clean, uniform dark burgundy so large ivory live HTML text will read clearly. Gold detailing confined to edges and outer corners. All four edges straight; exact frontal orthographic 2D interface art, not a physical object in perspective. Premium romance fantasy game UI, tasteful and tactile, not shiny plastic, no giant jewels, no particle sparkles. NO text, letters, digits, symbols, icons, logo, watermark, scene, character, or shadow outside the rectangle. Opaque, no transparency. High-resolution crisp edges. Must be one single button, not a sheet or mockup.",
+    "outputHint": "Generated images are saved to C:\\Users\\sisio\\.codex\\generated_images\\01a1845a-a6c6-7dd3-b3bb-083ca57c9b84 as C:\\Users\\sisio\\.codex\\generated_images\\01a1845a-a6c6-7dd3-b3bb-083ca57c9b84\\exec-b4ad903a-8962-4567-b336-d89eb4dc34e0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "original": "assets/ui-v6/primary-button.png",
+    "runtime": "/ui-v6/primary-button.webp",
+    "use": "주요 행동·선택된 카드"
+  },
+  {
+    "id": "secondary-button",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v6",
+    "prompt": "Use case: stylized-concept. ONE standalone blank IVORY SECONDARY BUTTON FACE for an adult Korean study visual novel, a 1990s cel-anime magical library, antique bookbinding theme. Wide 3:1 rectangle fills the entire image EDGE TO EDGE, no outer margin or surrounding background. Exact frontal orthographic game UI surface. Very pale ivory parchment center (#fffcf4), subtle elegant cream bevel, crisp thin antique brass double frame, modest restrained symmetrical gold leaf bookbinding details ONLY at four outer corners. Interior 80 percent empty, very bright uniform ivory for live dark navy HTML text. Surface should look illustrated, low-noise, no dirt. Narrow frame. Moderately rounded corner geometry. NO text, letters, numbers, icons, emblems, characters, objects, scene, watermark or outer cast shadow. ONE asset, not a sprite sheet or screen. Opaque. Designed to stretch from a short tab to a long answer card by nine-slice retaining corners. Gold leaf details must stay on peripheral corners, never enter reading area.",
+    "outputHint": "Generated images are saved to C:\\Users\\sisio\\.codex\\generated_images\\01a1845a-a6c6-7dd3-b3bb-083ca57c9b84 as C:\\Users\\sisio\\.codex\\generated_images\\01a1845a-a6c6-7dd3-b3bb-083ca57c9b84\\exec-91fa667c-a4d5-4e4b-8170-2780b13cc41d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "original": "assets/ui-v6/secondary-button.png",
+    "runtime": "/ui-v6/secondary-button.webp",
+    "use": "보조 버튼·답안·탭"
+  }
+]

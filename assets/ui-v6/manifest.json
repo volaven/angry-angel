@@ -1,0 +1,70 @@
+[
+  {
+    "id": "primary-button",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v6",
+    "original": "assets/ui-v6/primary-button.png",
+    "runtime": "/ui-v6/primary-button.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "sha256": "ef442e8a77aaf3078ee558a26613b3d58b1ce43ee2e4c09f8b048e05b060b211",
+    "originalSha256": "3ae24b6ffd248690488768fcbfa10291edee0de0344081dd55475e8362af7dc1",
+    "bytes": 151820,
+    "usage": "주요 시작·다음 행동 버튼",
+    "processing": "WebP encoding only; original dimensions and composition preserved",
+    "promptRecord": "button-generation.json"
+  },
+  {
+    "id": "secondary-button",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v6",
+    "original": "assets/ui-v6/secondary-button.png",
+    "runtime": "/ui-v6/secondary-button.webp",
+    "dimensions": [
+      2172,
+      724
+    ],
+    "sha256": "0b9da905bfd2076b677f900230e73eefddc5fb265b3e864bf8da387fbfd40d50",
+    "originalSha256": "cc7fa3f5438cf5df0cd4177299fd414014f8fac8e9b5a9b80a6054b888f327ec",
+    "bytes": 45730,
+    "usage": "보조 버튼·답안 카드·비활성 탭",
+    "processing": "WebP encoding only; original dimensions and composition preserved",
+    "promptRecord": "button-generation.json"
+  },
+  {
+    "id": "paper-panel",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v6",
+    "original": "assets/ui-v6/paper-panel.png",
+    "runtime": "/ui-v6/paper-panel.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "ef2382546ca05d4c4c9741d3a93276cd28d4106c0737c82d56abb26d74595033",
+    "originalSha256": "b3354d01ddd139c2576279f838544df36cdcf158ad7bab43033997feadcf34a5",
+    "bytes": 54116,
+    "usage": "문제·관리 패널·메뉴 카드·과목 이름 영역",
+    "processing": "WebP encoding only; original dimensions and composition preserved",
+    "promptRecord": "frame-generation.json"
+  },
+  {
+    "id": "dialogue-panel",
+    "tool": "image_gen.imagegen",
+    "version": "ui-v6",
+    "original": "assets/ui-v6/dialogue-panel.png",
+    "runtime": "/ui-v6/dialogue-panel.webp",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "sha256": "53736ffc8dab37be8624d7c58380e6443509a1016dea08d21baf07810e0c9d99",
+    "originalSha256": "27339f509ae13bfc154fc029889abf6c20ba765fed8e50c1e1ae3f599a2b1f24",
+    "bytes": 58174,
+    "usage": "시연 말풍선·상단 띠·상단 버튼·선택 탭",
+    "processing": "WebP encoding only; original dimensions and composition preserved",
+    "promptRecord": "frame-generation.json"
+  }
+]

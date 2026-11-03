@@ -1,0 +1,185 @@
+{
+  "checkedAt": "2026-11-03T20:14:25.624Z",
+  "sizes": [
+    [
+      667,
+      375
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      915,
+      364
+    ],
+    [
+      1024,
+      768
+    ]
+  ],
+  "checks": [
+    {
+      "width": 667,
+      "height": 375,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    }
+  ],
+  "skins": [
+    {
+      "width": 667,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    }
+  ],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    }
+  ],
+  "errors": [],
+  "physicalDevice": false
+}

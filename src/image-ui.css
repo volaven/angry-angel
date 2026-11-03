@@ -1,0 +1,98 @@
+/* Generated library artwork. Paint layers never change the measured A layout. */
+:root{
+ --skin-primary:url('/ui-v6/primary-button.webp');
+ --skin-secondary:url('/ui-v6/secondary-button.webp');
+ --skin-paper:url('/ui-v6/paper-panel.webp');
+ --skin-dialogue:url('/ui-v6/dialogue-panel.webp');
+}
+/* Each live HTML control keeps its label, focus, hit area and disabled state. */
+#app button{
+ --button-art:var(--skin-secondary);
+ --button-slice:18% 8%;
+ --button-corner:18px;
+ position:relative;isolation:isolate;
+ border-color:transparent;border-image:none;
+ background:#fffcf4;color:#252e3c;box-shadow:none;
+}
+#app button::before{
+ content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+ border:1px solid transparent;
+ border-image:var(--button-art) var(--button-slice) fill / var(--button-corner) / 0 stretch;
+ border-radius:inherit;
+}
+#app button:hover:not(:disabled)::before{filter:brightness(1.07)}
+#app button:active:not(:disabled)::before{filter:brightness(.91)}
+#app button:focus-visible{outline:3px solid #a35b72;outline-offset:2px}
+#app button.primary{
+ --button-art:var(--skin-primary);--button-slice:20% 8%;--button-corner:22px;
+ background:#782d44;color:#fff6e5;
+}
+#app :is(.app-header,.aux-menu) button,
+#app .lesson-tabs button[aria-pressed=true],
+#app .character button{
+ --button-art:var(--skin-dialogue);--button-slice:14%;--button-corner:16px;
+ background:#202c40;color:#fff6e5;
+}
+#app :is(.app-header,.aux-menu) button.primary{--button-art:var(--skin-primary);--button-slice:20% 8%;background:#782d44}
+#app button:disabled{background:#ebe7df;color:#706959;cursor:not-allowed}
+#app button:disabled::before{filter:grayscale(.85);opacity:.65}
+#app button.answer-card:disabled{color:#252e3c}
+#app button.answer-card.right{border-color:#376f5b;color:#234a3b}
+#app button.answer-card.wrong{border-color:#9b4b56;color:#803440}
+#app button.answer-card.right::before,#app button.answer-card.wrong::before{filter:none;opacity:1}
+#app button.answer-card.selected{outline:2px solid #782d44;outline-offset:-3px}
+#app button.answer-card.right{outline-color:#376f5b}
+#app button.answer-card.wrong{outline-color:#9b4b56}
+#app button.answer-card[data-continuation=true]{border-style:dashed;border-color:#8d7f65}
+#app button.answer-card .answer-state{font-weight:800}
+
+/* Parchment frames: only corners/edges are rescaled; the center stays quiet. */
+#app .question-panel,#app main.managed{
+ position:relative;isolation:isolate;border-color:transparent;
+ background:#fffcf4;box-shadow:none;
+}
+#app .question-panel::before,#app main.managed::before{
+ display:block;content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+ border:1px solid transparent;border-image:var(--skin-paper) 14% fill / 24px / 0 stretch;
+ opacity:1;
+}
+#app button.menu-card{
+ --button-art:var(--skin-paper);--button-slice:14%;--button-corner:24px;
+ border-top-width:1px;
+}
+#app button.menu-card:disabled::before{opacity:.9}
+#app .hub-cards button.menu-card{padding:10px 14px 22px}
+#app .hub-cards button.menu-card b{word-break:keep-all}
+#app .subject-caption{
+ position:relative;isolation:isolate;background:transparent;border-color:transparent;
+}
+#app .subject-caption::before{
+ content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+ border:1px solid transparent;border-image:var(--skin-paper) 14% fill / 18px / 0 stretch;
+}
+#app .subject-card:disabled .subject-caption{background:transparent;color:#655f54}
+#app .character :is(.dialogue,.cutin){
+ position:relative;isolation:isolate;border-color:transparent;
+ background:#202c40;box-shadow:none;
+}
+#app .character :is(.dialogue,.cutin)::before{
+ content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+ border:1px solid transparent;border-image:var(--skin-dialogue) 14% fill / 20px / 0 stretch;
+}
+#app .character .dialogue b,#app .dialogue-heading b{color:#f0d59d}
+#app .app-header{position:relative;isolation:isolate;background:#202c40;border-color:transparent}
+#app .app-header::before{
+ content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+ border:1px solid transparent;border-image:var(--skin-dialogue) 14% fill / 16px / 0 stretch;
+}
+body[data-screen=entry] #app .app-header{position:absolute;background:transparent}
+body[data-screen=entry] #app .app-header::before{display:none}
+#app .reader-controls{border-top-color:#b49a6c}
+@media(forced-colors:active){
+ #app button::before,#app .question-panel::before,#app main.managed::before,
+ #app .subject-caption::before,#app .character :is(.dialogue,.cutin)::before,
+ #app .app-header::before{display:none}
+ #app button{border:1px solid ButtonText;background:ButtonFace;color:ButtonText}
+ #app button:disabled{color:GrayText}
+ #app .lesson-tabs button[aria-pressed=true]{outline:2px solid Highlight;outline-offset:-3px}
+}

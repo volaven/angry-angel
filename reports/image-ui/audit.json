@@ -1,0 +1,2589 @@
+{
+  "checkedAt": "2026-11-03T20:11:08.734Z",
+  "sizes": [
+    [
+      667,
+      375
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      915,
+      364
+    ],
+    [
+      1024,
+      768
+    ]
+  ],
+  "checks": [
+    {
+      "width": 667,
+      "height": 375,
+      "screen": "entry",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "screen": "subjects",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "screen": "settings",
+      "pages": 5,
+      "runPreserved": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-0-1",
+      "pages": 17,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-0-17",
+      "pages": 32,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-1-6",
+      "pages": 14,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-0-12",
+      "pages": 13,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "screen": "entry",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "screen": "subjects",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "screen": "settings",
+      "pages": 5,
+      "runPreserved": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-0-1",
+      "pages": 14,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-0-17",
+      "pages": 17,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-1-6",
+      "pages": 12,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-0-12",
+      "pages": 10,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "screen": "entry",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "screen": "subjects",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "screen": "settings",
+      "pages": 5,
+      "runPreserved": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-0-1",
+      "pages": 16,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-0-17",
+      "pages": 27,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-1-6",
+      "pages": 14,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-0-12",
+      "pages": 12,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "screen": "entry",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "screen": "home",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "screen": "subjects",
+      "pages": 0,
+      "runPreserved": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "screen": "settings",
+      "pages": 2,
+      "runPreserved": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-0-1",
+      "pages": 5,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-0-17",
+      "pages": 7,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-1-6",
+      "pages": 3,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-0-12",
+      "pages": 5,
+      "correct": true,
+      "wrong": true,
+      "disabled": true,
+      "restore": true
+    }
+  ],
+  "skins": [
+    {
+      "width": 667,
+      "screen": "entry",
+      "selector": ".entry-cta",
+      "asset": "primary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/primary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "settings",
+      "selector": ".managed",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 667,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "entry",
+      "selector": ".entry-cta",
+      "asset": "primary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/primary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "settings",
+      "selector": ".managed",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 844,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "entry",
+      "selector": ".entry-cta",
+      "asset": "primary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/primary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "settings",
+      "selector": ".managed",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 915,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "entry",
+      "selector": ".entry-cta",
+      "asset": "primary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/primary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "home",
+      "selector": ".menu-card",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "settings",
+      "selector": ".managed",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".question-panel",
+      "asset": "paper-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/paper-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".dialogue",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=false]:not(:disabled)",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".lesson-tabs button[aria-pressed=true]",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".answer-card",
+      "asset": "secondary-button",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/secondary-button.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    },
+    {
+      "width": 1024,
+      "screen": "play",
+      "selector": ".cutin",
+      "asset": "dialogue-panel",
+      "normal": "none none",
+      "before": "none url(\"http://127.0.0.1:4176/ui-v6/dialogue-panel.webp\")",
+      "after": "none none",
+      "beforeDisplay": "block",
+      "beforeContent": "\"\"",
+      "beforePointer": "none"
+    }
+  ],
+  "requests": [
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/dialogue-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/paper-panel.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/secondary-button.webp",
+      "status": 304
+    },
+    {
+      "url": "http://127.0.0.1:4176/ui-v6/primary-button.webp",
+      "status": 304
+    }
+  ],
+  "errors": [],
+  "physicalDevice": false
+}

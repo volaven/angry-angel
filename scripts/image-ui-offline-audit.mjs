@@ -1,0 +1,50 @@
+import {chromium} from '@playwright/test';
+import {readFileSync,writeFileSync} from 'node:fs';
+import assert from 'node:assert/strict';
+const assets=JSON.parse(readFileSync('assets/ui-v6/manifest.json','utf8'));
+const browser=await chromium.launch({headless:true,channel:'msedge'});
+const context=await browser.newContext({viewport:{width:844,height:390}});
+const page=await context.newPage(),errors=[];page.on('pageerror',e=>errors.push(e.message));
+try{
+ await page.goto('http://127.0.0.1:4180');
+ await page.evaluate(()=>navigator.serviceWorker.ready);
+ await page.waitForFunction(()=>!!navigator.serviceWorker.controller);
+ await page.locator('[data-action=home]').click();
+ await page.locator('[data-action=subjects]').click();
+ await page.locator('[data-action="subject:국어"]').click();
+ await page.waitForSelector('[data-ready=true]');
+ await page.locator('[data-action="tab:answers"]').first().click();
+ await page.waitForSelector('[data-ready=true]');
+ await page.locator('.answer-card[data-action]').first().click();
+ await page.waitForSelector('[data-action="tab:explanation"][aria-pressed=true]');
+ const before=await page.evaluate(()=>JSON.parse(localStorage.getItem('siyeon-exam.v1')));
+ await context.setOffline(true);await page.reload();
+ await page.waitForSelector('[data-ready=true]');
+ await page.waitForSelector('.character-stage[data-rig=ready]');
+ const after=await page.evaluate(()=>JSON.parse(localStorage.getItem('siyeon-exam.v1')));
+ assert.equal(after.run.id,before.run.id);assert.deepEqual(after.run.answers,before.run.answers);
+ const checks=await page.evaluate(async assets=>Promise.all(assets.map(async a=>{
+  const response=await fetch(a.runtime),bytes=await response.arrayBuffer();
+  const hash=[...new Uint8Array(await crypto.subtle.digest('SHA-256',bytes))].map(b=>b.toString(16).padStart(2,'0')).join('');
+  return {id:a.id,ok:response.ok,hash,expected:a.sha256};
+ })),assets);
+ for(const a of checks){assert.ok(a.ok);assert.equal(a.hash,a.expected);}
+ await page.screenshot({path:'reports/image-ui/offline.png'});
+ const newContext=await browser.newContext({viewport:{width:667,height:375},serviceWorkers:'block'});
+ const fallback=await newContext.newPage();
+ await fallback.route('**/ui-v6/**',route=>route.abort());
+ await fallback.goto('http://127.0.0.1:4180');
+ await fallback.locator('[data-action=home]').click();
+ await fallback.locator('[data-action=subjects]').click();
+ await fallback.locator('[data-action="subject:영어"]').click();
+ await fallback.waitForSelector('[data-ready=true]');
+ await fallback.locator('[data-action="tab:answers"]').first().click();
+ await fallback.waitForSelector('[data-ready=true]');
+ await fallback.locator('.answer-card[data-action]').first().click();
+ await fallback.waitForSelector('[data-action="tab:explanation"][aria-pressed=true]');
+ await fallback.screenshot({path:'reports/image-ui/image-failure-fallback.png'});
+ const text=await fallback.locator('.page-window').innerText();assert.ok(text.length>5);
+ await newContext.close();assert.deepEqual(errors,[]);
+ writeFileSync('reports/image-ui/offline-audit.json',JSON.stringify({assets:checks,offlineGradeRestore:true,imageFailureStillOperable:true,errors,physicalDevice:false},null,2));
+ console.log('PASS four offline texture hashes, saved answers, image-failure fallback');
+}finally{await browser.close();}

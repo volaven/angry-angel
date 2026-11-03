@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "id": "primary-button",
+      "ok": true,
+      "hash": "ef442e8a77aaf3078ee558a26613b3d58b1ce43ee2e4c09f8b048e05b060b211",
+      "expected": "ef442e8a77aaf3078ee558a26613b3d58b1ce43ee2e4c09f8b048e05b060b211"
+    },
+    {
+      "id": "secondary-button",
+      "ok": true,
+      "hash": "0b9da905bfd2076b677f900230e73eefddc5fb265b3e864bf8da387fbfd40d50",
+      "expected": "0b9da905bfd2076b677f900230e73eefddc5fb265b3e864bf8da387fbfd40d50"
+    },
+    {
+      "id": "paper-panel",
+      "ok": true,
+      "hash": "ef2382546ca05d4c4c9741d3a93276cd28d4106c0737c82d56abb26d74595033",
+      "expected": "ef2382546ca05d4c4c9741d3a93276cd28d4106c0737c82d56abb26d74595033"
+    },
+    {
+      "id": "dialogue-panel",
+      "ok": true,
+      "hash": "53736ffc8dab37be8624d7c58380e6443509a1016dea08d21baf07810e0c9d99",
+      "expected": "53736ffc8dab37be8624d7c58380e6443509a1016dea08d21baf07810e0c9d99"
+    }
+  ],
+  "offlineGradeRestore": true,
+  "imageFailureStillOperable": true,
+  "errors": [],
+  "physicalDevice": false
+}

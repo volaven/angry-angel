@@ -1,0 +1,34 @@
+[
+  {
+    "id": "paper-panel",
+    "tool": "image_gen.imagegen",
+    "prompt": "Production game UI asset, NOT a screenshot: a single completely blank ivory document panel frame for a 1990s classic cel-anime romance fantasy library examination game. Square canvas, orthographic perfectly front-facing. The panel occupies EXACTLY the entire image edge to edge: no outside background, no outer margin, no drop shadow, no transparent area. Slim antique brass double-line bookbinding border runs close to the canvas edges, crisp hand-painted gold highlights with dark brown ink contour. Restrained symmetrical fine bookbinding corner ornaments confined within the outer 12 percent of each corner; all straight border segments simple and stretchable for CSS nine-slice. Very pale warm ivory center (#fffcf4), extremely subtle paper shading, practically flat and blank for readable black live text. Center 76 percent completely clear. Elegant premium old visual novel interface, restrained navy/ivory/burgundy/antique gold identity; not baroque, not photoreal. No text, no symbols resembling letters, no numbers, no logos, no characters, no books or props, no wood desk, no perspective. Fully opaque full-bleed square panel. Entire asset shown, symmetrical and clean.",
+    "original": "assets/ui-v6/paper-panel.png",
+    "source": "C:/Users/sisio/.codex/generated_images/01a1a302-6e4f-7020-afb8-c91406473053/exec-74e165f9-39b4-4794-8e92-ab614b149a7f.png",
+    "usage": "Ivory question/document/management panel; use 16% nine-slice with fixed 20–28px corner display",
+    "visualReview": "Full-bleed opaque square with unobstructed blank ivory center; four corner floral bookbinding details; no text.",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 1548519,
+    "sha256": "b3354d01ddd139c2576279f838544df36cdcf158ad7bab43033997feadcf34a5",
+    "version": "ui-v6"
+  },
+  {
+    "id": "dialogue-panel",
+    "tool": "image_gen.imagegen",
+    "prompt": "Production game UI asset, NOT a screenshot: ONE completely blank dark midnight navy dialogue panel frame for a 1990s classic cel-animation romance fantasy library examination game. Square canvas, orthographic perfectly front-facing. The panel occupies EXACTLY the entire image edge to edge: NO outside background, NO outer margin, NO drop shadow. Fully opaque. Fine antique brass double-line bookbinding frame runs at the edges with crisp hand-painted muted gold bevel highlights and dark brown ink contour. Four restrained symmetrical bookbinding corner ornaments: a small burgundy blossom with thin gold outline and one elegant curling gold leaf, all confined within the outer 12 to 15 percent corner squares. Straight borders thin simple horizontal/vertical lines, stretchable for CSS nine-slice. Very dark matte ink navy center (#202c40) practically flat with barely visible velvety paper texture, center 72 percent completely empty for live ivory text. Elegant premium retro visual-novel interface. No central ornament, no vignette brighter than navy, no glow, no illustration in middle. No text, no letters, no numbers, no logos, no characters, no books or objects, no surrounding scene, no perspective. FULL BLEED square panel. Entire asset shown, symmetrical clean rectangular shape with square corners.",
+    "original": "assets/ui-v6/dialogue-panel.png",
+    "source": "C:/Users/sisio/.codex/generated_images/01a1a302-6e4f-7020-afb8-c91406473053/exec-9a4fc606-31ba-4ccb-9b63-2cd9749f9942.png",
+    "usage": "Navy character dialogue; use 16% nine-slice with fixed 16–22px corner display",
+    "visualReview": "Full-bleed opaque square with unobstructed dark navy center; four small corner floral bookbinding details; no text.",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "bytes": 1773228,
+    "sha256": "27339f509ae13bfc154fc029889abf6c20ba765fed8e50c1e1ae3f599a2b1f24",
+    "version": "ui-v6"
+  }
+]
