@@ -1,0 +1,41 @@
+{
+  "method": "WCAG relative luminance of declared solid text/surface pairs; excludes image backgrounds and disabled controls",
+  "pairs": [
+    {
+      "label": "본문",
+      "foreground": "#252e3c",
+      "background": "#fffcf4",
+      "ratio": 13.35
+    },
+    {
+      "label": "상단·대화",
+      "foreground": "#fff6e5",
+      "background": "#202c40",
+      "ratio": 13.08
+    },
+    {
+      "label": "주요 버튼",
+      "foreground": "#fff6e5",
+      "background": "#782d44",
+      "ratio": 8.67
+    },
+    {
+      "label": "쪽 표시",
+      "foreground": "#6b583b",
+      "background": "#fffcf4",
+      "ratio": 6.64
+    },
+    {
+      "label": "B 비활성 탭",
+      "foreground": "#68583f",
+      "background": "#fffcf4",
+      "ratio": 6.7
+    },
+    {
+      "label": "비교 설명",
+      "foreground": "#6e6252",
+      "background": "#fffaf0",
+      "ratio": 5.71
+    }
+  ]
+}

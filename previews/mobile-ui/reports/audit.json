@@ -1,0 +1,834 @@
+{
+  "date": "2026-11-03",
+  "mode": "file://; Edge headless",
+  "variants": [
+    "a",
+    "b",
+    "c"
+  ],
+  "sizes": [
+    [
+      667,
+      375
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      915,
+      364
+    ],
+    [
+      1024,
+      768
+    ]
+  ],
+  "checks": [
+    {
+      "label": "a entry",
+      "bounds": true
+    },
+    {
+      "label": "a play",
+      "bounds": true
+    },
+    {
+      "variant": "a",
+      "width": 667,
+      "height": 375,
+      "entryAndPlay": true
+    },
+    {
+      "label": "b entry",
+      "bounds": true
+    },
+    {
+      "label": "b play",
+      "bounds": true
+    },
+    {
+      "variant": "b",
+      "width": 667,
+      "height": 375,
+      "entryAndPlay": true
+    },
+    {
+      "label": "c entry",
+      "bounds": true
+    },
+    {
+      "label": "c play",
+      "bounds": true
+    },
+    {
+      "variant": "c",
+      "width": 667,
+      "height": 375,
+      "entryAndPlay": true
+    },
+    {
+      "label": "a entry",
+      "bounds": true
+    },
+    {
+      "label": "a play",
+      "bounds": true
+    },
+    {
+      "variant": "a",
+      "width": 844,
+      "height": 390,
+      "entryAndPlay": true
+    },
+    {
+      "label": "b entry",
+      "bounds": true
+    },
+    {
+      "label": "b play",
+      "bounds": true
+    },
+    {
+      "variant": "b",
+      "width": 844,
+      "height": 390,
+      "entryAndPlay": true
+    },
+    {
+      "label": "c entry",
+      "bounds": true
+    },
+    {
+      "label": "c play",
+      "bounds": true
+    },
+    {
+      "variant": "c",
+      "width": 844,
+      "height": 390,
+      "entryAndPlay": true
+    },
+    {
+      "label": "a entry",
+      "bounds": true
+    },
+    {
+      "label": "a play",
+      "bounds": true
+    },
+    {
+      "variant": "a",
+      "width": 915,
+      "height": 364,
+      "entryAndPlay": true
+    },
+    {
+      "label": "b entry",
+      "bounds": true
+    },
+    {
+      "label": "b play",
+      "bounds": true
+    },
+    {
+      "variant": "b",
+      "width": 915,
+      "height": 364,
+      "entryAndPlay": true
+    },
+    {
+      "label": "c entry",
+      "bounds": true
+    },
+    {
+      "label": "c play",
+      "bounds": true
+    },
+    {
+      "variant": "c",
+      "width": 915,
+      "height": 364,
+      "entryAndPlay": true
+    },
+    {
+      "label": "a entry",
+      "bounds": true
+    },
+    {
+      "label": "a play",
+      "bounds": true
+    },
+    {
+      "variant": "a",
+      "width": 1024,
+      "height": 768,
+      "entryAndPlay": true
+    },
+    {
+      "label": "b entry",
+      "bounds": true
+    },
+    {
+      "label": "b play",
+      "bounds": true
+    },
+    {
+      "variant": "b",
+      "width": 1024,
+      "height": 768,
+      "entryAndPlay": true
+    },
+    {
+      "label": "c entry",
+      "bounds": true
+    },
+    {
+      "label": "c play",
+      "bounds": true
+    },
+    {
+      "variant": "c",
+      "width": 1024,
+      "height": 768,
+      "entryAndPlay": true
+    },
+    {
+      "label": "a2024-0-1passage#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1passage#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1passage#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1passage#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1passage#4",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1passage#5",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1answers#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1answers#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1answers#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1answers#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1explanation#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-1source#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#4",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#5",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#6",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#7",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#8",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#9",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17passage#10",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17answers#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17answers#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17answers#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17answers#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17answers#4",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17answers#5",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17explanation#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-17source#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6passage#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6passage#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6passage#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6passage#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6answers#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6answers#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6answers#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6answers#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-1-6source#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12passage#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12passage#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12answers#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12answers#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12answers#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12answers#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12explanation#3",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12explanation#4",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12explanation#5",
+      "bounds": true
+    },
+    {
+      "label": "a2024-0-12source#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1passage#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1passage#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1passage#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1passage#3",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1passage#4",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1passage#5",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1answers#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1answers#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1answers#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1answers#3",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-1source#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#3",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#4",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#5",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#6",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17passage#7",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17answers#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17answers#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17answers#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17answers#3",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-17source#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6passage#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6passage#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6passage#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6answers#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6answers#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6answers#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6answers#3",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-1-6source#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12passage#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12passage#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12answers#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12answers#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12answers#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12answers#3",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "b2024-0-12source#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1passage#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1passage#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1passage#2",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1passage#3",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1answers#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1answers#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-1source#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17passage#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17passage#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17passage#2",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17passage#3",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17passage#4",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17passage#5",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17answers#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17answers#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17answers#2",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17answers#3",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-17source#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6passage#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6passage#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6passage#2",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6answers#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6answers#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-1-6source#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12passage#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12passage#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12answers#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12answers#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12explanation#0",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12explanation#1",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12explanation#2",
+      "bounds": true
+    },
+    {
+      "label": "c2024-0-12source#0",
+      "bounds": true
+    },
+    {
+      "label": "paused",
+      "bounds": true
+    },
+    {
+      "label": "resized",
+      "bounds": true
+    },
+    {
+      "label": "zoom",
+      "bounds": true
+    },
+    {
+      "label": "zoom0",
+      "bounds": true
+    },
+    {
+      "label": "zoom1",
+      "bounds": true
+    },
+    {
+      "label": "zoom2",
+      "bounds": true
+    },
+    {
+      "label": "zoom3",
+      "bounds": true
+    }
+  ],
+  "pages": 151,
+  "integrityChecks": 48,
+  "errors": [],
+  "failures": [],
+  "physicalDevice": false
+}

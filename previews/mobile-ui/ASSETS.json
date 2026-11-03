@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build-mobile-ui-fixtures.mjs",
+  "questionIds": [
+    "2024-0-1",
+    "2024-0-17",
+    "2024-1-6",
+    "2024-0-12"
+  ],
+  "inputSources": [
+    {
+      "source": "src/bank.json",
+      "sha256": "540f7f4cc132a9a035ae201cd08b991fdb7950716aace82a82c8f1b2f275d802"
+    },
+    {
+      "source": "src/question-presentations.json",
+      "sha256": "b0927eec002d1359d457acc83b78dca3934a0c53bf9d9940a8795c1794660d26"
+    }
+  ],
+  "assets": [
+    {
+      "source": "public/exams/2024-0-1-0.webp",
+      "path": "assets/2024-0-1-0.webp",
+      "bytes": 59170,
+      "sha256": "dbd3e9d5b572d22ce0d03343353a3bd21bfb71fc6ca96b651592941bb7016e28"
+    },
+    {
+      "source": "public/exams/2024-0-12-4.webp",
+      "path": "assets/2024-0-12-4.webp",
+      "bytes": 74194,
+      "sha256": "418dfb74aa412d0cf32a06e394aaf9cf2a0c65b3da329c812c3b389fbb73f186"
+    },
+    {
+      "source": "public/exams/2024-0-17-6.webp",
+      "path": "assets/2024-0-17-6.webp",
+      "bytes": 144730,
+      "sha256": "1e2c6acd94c68593d7c108cc7274d33e5262e6bdcd16697983836bcebc2d2535"
+    },
+    {
+      "source": "public/exams/2024-1-6-0.webp",
+      "path": "assets/2024-1-6-0.webp",
+      "bytes": 32258,
+      "sha256": "ca9bcd2da1fcd28738d638e21c53878e9bd3c41b0af7ec96bc556b26086212e2"
+    },
+    {
+      "source": "public/characters/runtime/correct.webp",
+      "path": "assets/correct.webp",
+      "bytes": 104960,
+      "sha256": "f29eb84f081ff413f83b79c9eae2c9cf51d51f1f430893169643a1f98f51bd53"
+    },
+    {
+      "source": "public/characters/runtime/idle.webp",
+      "path": "assets/idle.webp",
+      "bytes": 86698,
+      "sha256": "9415b5c40b3329c71d9986764e52fb9956500cfc8b41513854e5a0a66977227a"
+    },
+    {
+      "source": "public/ui-v3/library.webp",
+      "path": "assets/library.webp",
+      "bytes": 260840,
+      "sha256": "d66e9163766a49858614dad9206409ed58d601b10a1290079b40d47f7c14223e"
+    },
+    {
+      "source": "public/exams/material-2024-0-12-4.webp",
+      "path": "assets/material-2024-0-12-4.webp",
+      "bytes": 71436,
+      "sha256": "826ba84201fc4be203413bb2d0d8b503654c5ef7127f91fc7a5d0cc29a7ae304"
+    },
+    {
+      "source": "public/fonts/NotoSansKR.ttf",
+      "path": "assets/NotoSansKR.ttf",
+      "bytes": 10414588,
+      "sha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252"
+    },
+    {
+      "source": "public/characters/runtime/question.webp",
+      "path": "assets/question.webp",
+      "bytes": 93114,
+      "sha256": "44dbc2f97d7b45eb6e4a3e8f02eb39c47f910555fc13cc1349aae8757b5aec77"
+    },
+    {
+      "source": "public/characters/runtime/sigh.webp",
+      "path": "assets/sigh.webp",
+      "bytes": 86758,
+      "sha256": "1d104257629cfe08418fd0c6e6e62d66cc3966cabd3129feba26ee0c88faa8e0"
+    }
+  ],
+  "bytes": 11428746,
+  "runtime": {
+    "externalRequests": false,
+    "jsonFetch": false,
+    "modules": false,
+    "storage": false
+  }
+}

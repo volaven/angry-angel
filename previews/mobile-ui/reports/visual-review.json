@@ -1,0 +1,17 @@
+{
+  "disposition": "ship",
+  "scope": "Independent screenshot review of the 11 named title/play/comparison images",
+  "findings": [],
+  "limits": [
+    "No browser interaction by visual reviewer",
+    "Graded states not included in visual-review captures",
+    "No computed contrast or touch measurement by visual reviewer",
+    "Physical device not tested"
+  ],
+  "functionalEvidence": "audit.json",
+  "httpEvidence": "http-audit.json",
+  "detector": {
+    "findings": 0,
+    "mode": "regex fallback; HTML/CSS parser modules unavailable; computed checks not performed"
+  }
+}

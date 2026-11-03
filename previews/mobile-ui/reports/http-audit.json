@@ -1,0 +1,13 @@
+{
+  "base": "http://127.0.0.1:4176/previews/mobile-ui/",
+  "variants": 3,
+  "startGradeExplanation": true,
+  "shellSyncReset": true,
+  "learningStoragePreserved": true,
+  "motionStoragePreserved": true,
+  "noAudioOrServiceWorker": true,
+  "noExternalRequests": true,
+  "productionCacheExcludesComparison": true,
+  "errors": [],
+  "physicalDevice": false
+}

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>시연 · 모바일 UI 3종 비교</title>
+  <link rel="stylesheet" href="compare.css">
+  <script src="compare.js" defer></script>
+</head>
+<body>
+  <header class="comparison-header">
+    <div class="heading-copy">
+      <h1>세 가지 방식으로, 한 문제.</h1>
+      <p>《합격하시든가, 쓰레기로 남으시든가》 모바일 가로 UI 비교</p>
+    </div>
+    <div class="header-note"><span class="live-dot" aria-hidden="true"></span>직접 눌러보는 디자인 체험</div>
+  </header>
+  <main>
+    <section class="controls" aria-label="공통 비교 설정">
+      <div class="control-group screen-control">
+        <span class="control-label" id="screen-label">비교할 화면</span>
+        <div class="segmented" role="group" aria-labelledby="screen-label">
+          <button type="button" data-screen="entry" aria-pressed="true">타이틀</button>
+          <button type="button" data-screen="play" aria-pressed="false">문제풀이</button>
+        </div>
+      </div>
+      <label class="control-group question-control"><span class="control-label">같은 예제 문항</span>
+        <select id="question-select">
+          <option value="2024-0-1">국어 · 일반 선택형</option>
+          <option value="2024-0-17">국어 · 긴 지문</option>
+          <option value="2024-1-6">영어 · 밑줄 어법</option>
+          <option value="2024-0-12">국어 · 그림 자료</option>
+        </select>
+      </label>
+      <label class="control-group device-control"><span class="control-label">화면 크기</span>
+        <select id="device-select">
+          <option value="667x375">667 × 375 · 작은 휴대전화</option>
+          <option value="844x390" selected>844 × 390 · 휴대전화</option>
+          <option value="915x364">915 × 364 · 낮은 휴대전화</option>
+          <option value="1024x768">1024 × 768 · 태블릿</option>
+        </select>
+      </label>
+      <button class="reset-button" type="button" id="reset-all"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10a8 8 0 1 1 1 7M4 4v6h6"/></svg>전체 초기화</button>
+    </section>
+    <div class="compare-guide"><p>같은 내용으로 배치와 조작감을 비교하세요. <strong>‘단독 열기’에서 원래 크기로 체험</strong>할 수 있습니다.</p><span id="sync-status" role="status" aria-live="polite">세 시안 · 타이틀 화면</span></div>
+    <nav class="variant-tabs" aria-label="모바일 시안 선택">
+      <button type="button" data-variant="a" aria-pressed="true"><span>A</span>서고 균형형</button>
+      <button type="button" data-variant="b" aria-pressed="false"><span>B</span>시험지 집중형</button>
+      <button type="button" data-variant="c" aria-pressed="false"><span>C</span>양손 게임형</button>
+    </nav>
+    <div class="variants" id="variants">
+      <article class="variant-panel active" data-panel="a">
+        <div class="variant-heading"><span class="variant-letter" aria-hidden="true">A</span><div><h2>서고 균형형</h2><p>문제와 시연이 함께 있는 익숙한 구도</p></div></div>
+        <div class="device-top"><span class="device-caption">844 × 390</span><span class="frame-state" data-state="a">타이틀</span></div>
+        <div class="viewport" data-viewport="a"><iframe title="A 서고 균형형 체험" data-frame="a"></iframe></div>
+        <div class="variant-bottom"><p>문제 70% · 시연 30%<br>쪽 이동과 다음 행동을 하단에서</p><a data-open="a" href="player.html?variant=a" target="_blank" rel="noopener">단독 열기<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M10 4H4v16h16v-6"/></svg></a></div>
+      </article>
+      <article class="variant-panel" data-panel="b">
+        <div class="variant-heading"><span class="variant-letter" aria-hidden="true">B</span><div><h2>시험지 집중형</h2><p>지문을 읽는 공간에 가장 큰 비중</p></div></div>
+        <div class="device-top"><span class="device-caption">844 × 390</span><span class="frame-state" data-state="b">타이틀</span></div>
+        <div class="viewport" data-viewport="b"><iframe title="B 시험지 집중형 체험" data-frame="b"></iframe></div>
+        <div class="variant-bottom"><p>넓은 시험지 · 작은 시연 초상<br>내용에 집중하는 단정한 조작줄</p><a data-open="b" href="player.html?variant=b" target="_blank" rel="noopener">단독 열기<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M10 4H4v16h16v-6"/></svg></a></div>
+      </article>
+      <article class="variant-panel" data-panel="c">
+        <div class="variant-heading"><span class="variant-letter" aria-hidden="true">C</span><div><h2>양손 게임형</h2><p>가로로 잡았을 때 양쪽 엄지로 조작</p></div></div>
+        <div class="device-top"><span class="device-caption">844 × 390</span><span class="frame-state" data-state="c">타이틀</span></div>
+        <div class="viewport" data-viewport="c"><iframe title="C 양손 게임형 체험" data-frame="c"></iframe></div>
+        <div class="variant-bottom"><p>왼쪽 쪽 이동 · 오른쪽 주요 행동<br>중앙에는 문제만 남긴 게임 구도</p><a data-open="c" href="player.html?variant=c" target="_blank" rel="noopener">단독 열기<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M20 4l-9 9M10 4H4v16h16v-6"/></svg></a></div>
+      </article>
+    </div>
+    <footer class="comparison-footer"><p>타이틀 → 시작 → 답 선택 → 정오답·해설 → 다음 문제까지 체험할 수 있습니다.</p><p>시안의 응답은 메모리에서만 처리하며 실제 학습 기록·호감도·진행 중 실행에 저장하지 않습니다.</p></footer>
+  </main>
+</body>
+</html>
