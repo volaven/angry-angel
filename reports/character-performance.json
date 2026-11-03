@@ -1,0 +1,11 @@
+{
+  "environment": "Headless desktop Edge; 4x CPU throttling, not a physical tablet",
+  "tabChanges": 80,
+  "heapBefore": 3348048,
+  "heapAfter": 3681872,
+  "heapGrowth": 333824,
+  "canvases": 1,
+  "browserRafPerSecond": 60.10331810267183,
+  "characterDrawCap": 30,
+  "physicalDevice": false
+}

@@ -7,7 +7,7 @@ interface Piece {html:string;block:number;start:number;end:number}
 interface Book {host:HTMLElement;pages:Piece[][];page:number;key:string;draw:()=>void}
 let books:Book[]=[];
 let generation=0;
-export function deck(html:string,key:string){return `<section class="paged-reader" data-book="${esc(key)}"><template>${html}</template><div class="page-window" tabindex="-1" aria-label="현재 쪽"></div><nav class="book-nav" aria-label="내용 페이지"><button type="button" data-turn="-1" aria-label="이전 쪽">← 이전</button><span class="page-count" aria-live="polite"></span><button type="button" data-turn="1" aria-label="다음 쪽">다음 →</button></nav></section>`;}
+export function deck(html:string,key:string,actions=''){return `<section class="paged-reader" data-book="${esc(key)}"><template>${html}</template><div class="page-window" tabindex="-1" aria-label="현재 쪽"></div><div class="reader-controls"><nav class="book-nav" aria-label="내용 페이지"><button type="button" data-turn="-1" aria-label="이전 쪽">← 이전</button><span class="page-count" aria-live="polite"></span><button type="button" data-turn="1" aria-label="다음 쪽">다음 →</button></nav>${actions?`<footer class="lesson-actions">${actions}</footer>`:''}</div></section>`;}
 
 // A DOM Range preserves inline underlines, emphasis, and original whitespace.
 export function textSlice(el:HTMLElement,start:number,end:number){

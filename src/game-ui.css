@@ -1,0 +1,69 @@
+/* Shared v5 geometry: measured text pages and one fixed control row. */
+:root{--reading-font:28px;--instruction-font:34px;--action-font:24px;--touch:88px;--control-touch:60px;--secondary-font:18px;--ui-gap:12px}
+@media(max-height:600px){:root{--reading-font:22px;--instruction-font:28px;--action-font:20px;--touch:72px;--control-touch:52px;--secondary-font:16px;--ui-gap:6px}}
+@media(min-height:901px){:root{--reading-font:32px;--instruction-font:40px;--action-font:26px}}
+button{font-weight:700;text-shadow:none}
+.primary{border:1px solid #c9a76c;border-image:none;background:#702a39;box-shadow:0 3px 0 #421a29;padding:8px 16px;font-size:var(--action-font);min-height:var(--touch)}
+.question-panel{border:1px solid #bda979;box-shadow:0 3px 10px #1d192518;gap:var(--ui-gap)}
+.question-panel:before{display:none}
+.page-window,.page-window .answer-card,.page-window pre,.page-window .passage{font-size:var(--reading-font);line-height:1.6;font-weight:500}
+.page-window .question-instruction,.page-window h1{font-size:var(--instruction-font);font-weight:800;line-height:1.4}
+.page-window h2{font-size:var(--reading-font)}
+.page-window .answer-card{min-height:var(--touch);padding:10px 14px;grid-template-columns:32px minmax(0,1fr);gap:10px}
+.answer-state{grid-column:2;font-size:16px!important;line-height:1.3}
+.answer-state:empty{display:none}
+.lesson-tabs button{min-height:var(--control-touch);font-size:var(--action-font);padding:6px 8px;font-weight:700}
+.reader-controls{display:flex;align-items:center;gap:12px;flex:none;border-top:1px solid #cbbd9f;padding-top:8px}
+.reader-controls .book-nav{flex:1;min-width:0;border:0;padding:0;gap:8px;grid-template-columns:1fr auto 1fr}
+.reader-controls .book-nav button{min-height:var(--control-touch);font-size:var(--secondary-font);padding:6px 10px;min-width:52px}
+.reader-controls .page-count{font-size:var(--secondary-font);text-align:center}
+.reader-controls .lesson-actions{position:static;width:auto;height:auto;flex:0 1 44%;min-width:0;gap:6px}
+.reader-controls .lesson-actions button{min-height:var(--touch);font-size:var(--action-font);line-height:1.3;padding:8px 12px;white-space:normal}
+.reader-controls:has([data-action=submit]) .lesson-actions{flex:0 1 62%}
+.app-header .lesson-meta{display:flex;align-items:center;gap:20px;flex:1;min-width:0;font-size:20px;color:#fff4dc;font-variant-numeric:tabular-nums}
+.lesson-meta small{font-size:16px;color:#e4d2b0}.lesson-meta .progress{margin-left:auto;white-space:nowrap}
+.app-header button{font-size:var(--secondary-font);min-height:var(--control-touch)}
+.menu-card b,.subject-caption b{font-size:clamp(24px,2.4vw,36px);font-weight:800;line-height:1.3}
+.menu-card small,.subject-caption small,.subject-caption .card-status,.outfit small,.outfit .card-status{font-size:var(--secondary-font);line-height:1.45}
+.section-title p{font-size:var(--secondary-font)}
+.pager button,.aux-menu button{min-height:var(--control-touch);font-size:var(--secondary-font)}
+.character{display:flex;flex-direction:column;min-height:0;gap:8px}
+.character-stage{position:relative;isolation:isolate;overflow:hidden;min-height:0;flex:1}
+.character-stage img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center bottom;z-index:1}
+.character-stage canvas{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:2}
+.character-stage[data-rig=ready] img{visibility:hidden}
+.character .dialogue,.character .cutin{border:1px solid #b89b6b;border-image:none;background:#19283f;padding:14px 16px;box-shadow:none}
+.character .dialogue p,.character .cutin p{font-size:18px;line-height:1.55;margin:6px 0 0;word-break:keep-all}
+.character .dialogue span{font-size:16px;color:#e2c696}
+.character .cutin button{min-height:52px;font-size:16px;margin-top:10px}
+.entry-art .character-stage{height:100%;width:100%}
+.entry-art .character-stage img{height:100%;max-height:none}
+@media(orientation:landscape) and (max-height:600px) and (max-width:1200px){
+ :root{--header:60px}
+ .app-header{height:60px;min-height:60px;padding:4px 10px;gap:10px}
+ body[data-screen=play] .app-header{background:#202c40;border-bottom:1px solid #b59b6b}
+ .app-header button,.app-header .back-slot button{height:52px;min-height:52px;font-size:16px;padding:4px 10px}
+ .app-header .back-slot{width:48px}.app-header .lesson-meta{font-size:16px;gap:10px}.lesson-meta small{font-size:14px}
+ main,body[data-screen=play] main{height:calc(100dvh - 60px);padding:6px 12px 8px;gap:6px}
+ .question-panel{padding:6px 10px}
+ .reader-controls{gap:8px;padding-top:5px}
+ .reader-controls .book-nav button{font-size:0;padding:4px;width:52px}
+ .reader-controls .book-nav button:first-child:after{content:'←';font-size:24px}
+ .reader-controls .book-nav button:last-child:after{content:'→';font-size:24px}
+ .reader-controls .lesson-actions{flex-basis:48%}
+ .reader-controls .lesson-actions button{padding:6px 8px}
+ .page-window .question-instruction{margin-bottom:10px}
+ .play-grid .dialogue,.desktop-reaction .cutin{padding:8px;border:1px solid #b89b6b;border-image:none}
+ .play-grid .dialogue p,.desktop-reaction .cutin p{font-size:16px;line-height:1.4;margin:4px 0}
+ .desktop-reaction .cutin .reaction-label{font-size:14px}
+ .desktop-reaction .cutin button{min-height:52px;height:auto;width:100%;font-size:16px;margin-top:6px}
+ .character .affinity{display:none}.character{gap:6px}
+ .play-grid .character-stage[data-rig=fallback] img{object-fit:cover;object-position:center 14%}
+ .menu-card{padding:8px}.menu-card b,.subject-caption b{font-size:24px}
+ .subject-caption{height:124px;padding:8px;gap:2px}
+ .section-title{gap:8px}.section-title h1{font-size:26px}.section-title p{font-size:16px}
+ .hub-cards .menu-card{grid-template-rows:minmax(20px,1fr) auto auto}.hub-cards .card-arrow{display:none}
+ .aux-menu{gap:6px}.aux-menu button{padding:5px 8px}
+ .entry-cta{min-height:72px}.outfit b{font-size:24px}
+}
+@media(prefers-reduced-motion:reduce){.character-stage *{animation:none!important}}

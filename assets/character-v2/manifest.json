@@ -1,0 +1,1275 @@
+{
+  "tool": "image_gen.imagegen",
+  "date": "2026-11-03",
+  "version": 2,
+  "states": {
+    "idle": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/idle-v2.webp",
+        "rect": [
+          677,
+          94,
+          172,
+          237
+        ],
+        "blink": [
+          677,
+          960,
+          172,
+          238
+        ],
+        "dest": [
+          159.42784810126582,
+          41,
+          174.1772151898734,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/contempt.webp",
+        "rect": [
+          130,
+          988,
+          260,
+          227
+        ],
+        "dest": [
+          158,
+          197,
+          187,
+          163
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.62,
+        0.43
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "question": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/question-v2.webp",
+        "rect": [
+          677,
+          46,
+          177,
+          283
+        ],
+        "blink": [
+          677,
+          999,
+          177,
+          284
+        ],
+        "dest": [
+          171.94487632508833,
+          41,
+          150.1060070671378,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/question.webp",
+        "rect": [
+          126,
+          802,
+          159,
+          297
+        ],
+        "dest": [
+          86,
+          11,
+          135,
+          252
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.225,
+        0.087
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "sigh": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/sigh-v2.webp",
+        "rect": [
+          666,
+          815,
+          158,
+          230
+        ],
+        "blink": [
+          666,
+          815,
+          158,
+          230
+        ],
+        "dest": [
+          163.8934497816594,
+          41,
+          165.58951965065503,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/sigh-v2.webp",
+        "rect": [
+          188,
+          862,
+          176,
+          226
+        ],
+        "dest": [
+          170,
+          130,
+          150,
+          193
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.55,
+        0.21
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "contempt": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/contempt-v2.webp",
+        "rect": [
+          650,
+          76,
+          172,
+          251
+        ],
+        "blink": [
+          650,
+          1032,
+          172,
+          251
+        ],
+        "dest": [
+          164.4796812749004,
+          41,
+          164.4621513944223,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/contempt.webp",
+        "rect": [
+          130,
+          988,
+          260,
+          227
+        ],
+        "dest": [
+          158,
+          197,
+          187,
+          163
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.62,
+        0.43
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "ignore": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/ignore-v2.webp",
+        "rect": [
+          692,
+          80,
+          194,
+          288
+        ],
+        "blink": [
+          702,
+          994,
+          206,
+          306
+        ],
+        "dest": [
+          165.93333333333334,
+          41,
+          161.66666666666666,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/contempt.webp",
+        "rect": [
+          130,
+          988,
+          260,
+          227
+        ],
+        "dest": [
+          158,
+          197,
+          187,
+          163
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.62,
+        0.43
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "correct": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/correct-v2.webp",
+        "rect": [
+          660,
+          125,
+          179,
+          274
+        ],
+        "blink": [
+          660,
+          1083,
+          179,
+          274
+        ],
+        "dest": [
+          168.47007299270072,
+          41,
+          156.78832116788323,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/correct.webp",
+        "rect": [
+          145,
+          902,
+          253,
+          264
+        ],
+        "dest": [
+          175,
+          160,
+          180,
+          188
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.64,
+        0.237
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "encourage": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/encourage-v2.webp",
+        "rect": [
+          683,
+          55,
+          165,
+          225
+        ],
+        "blink": [
+          683,
+          928,
+          165,
+          228
+        ],
+        "dest": [
+          158.48,
+          41,
+          176.0,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/correct.webp",
+        "rect": [
+          145,
+          902,
+          253,
+          264
+        ],
+        "dest": [
+          175,
+          160,
+          180,
+          188
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.64,
+        0.237
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "blush": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-default.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/blush-v2.webp",
+        "rect": [
+          686,
+          60,
+          173,
+          259
+        ],
+        "blink": [
+          686,
+          937,
+          173,
+          260
+        ],
+        "dest": [
+          166.63938223938226,
+          41,
+          160.3088803088803,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/contempt.webp",
+        "rect": [
+          130,
+          988,
+          260,
+          227
+        ],
+        "dest": [
+          158,
+          197,
+          187,
+          163
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.62,
+        0.43
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "history-idle": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-history.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          12.8,
+          33,
+          486.4,
+          729.6
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/history-idle-v2.webp",
+        "rect": [
+          693,
+          62,
+          152,
+          209
+        ],
+        "blink": [
+          693,
+          894,
+          152,
+          209
+        ],
+        "dest": [
+          158.22727272727275,
+          14,
+          174.54545454545453,
+          230
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/history-idle.webp",
+        "rect": [
+          186,
+          941,
+          206,
+          253
+        ],
+        "dest": [
+          178.5,
+          161.75,
+          144,
+          177
+        ],
+        "flip": true
+      },
+      "face": [
+        0.48,
+        0.11
+      ],
+      "hand": [
+        0.353,
+        0.401
+      ],
+      "neck": [
+        0.48,
+        0.2
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.59,
+        0.247
+      ]
+    },
+    "history-blush": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-history.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          12.8,
+          33,
+          486.4,
+          729.6
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/history-blush-v2.webp",
+        "rect": [
+          689,
+          82,
+          152,
+          231
+        ],
+        "blink": [
+          689,
+          914,
+          151,
+          232
+        ],
+        "dest": [
+          166.53896103896102,
+          14,
+          157.92207792207793,
+          230
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/history-idle.webp",
+        "rect": [
+          186,
+          941,
+          206,
+          253
+        ],
+        "dest": [
+          178.5,
+          161.75,
+          144,
+          177
+        ],
+        "flip": true
+      },
+      "face": [
+        0.48,
+        0.11
+      ],
+      "hand": [
+        0.353,
+        0.401
+      ],
+      "neck": [
+        0.48,
+        0.2
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.59,
+        0.247
+      ]
+    },
+    "english-idle": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-english.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/english-idle-v2.webp",
+        "rect": [
+          685,
+          81,
+          155,
+          245
+        ],
+        "blink": [
+          685,
+          1072,
+          155,
+          244
+        ],
+        "dest": [
+          171.0448979591837,
+          31,
+          151.83673469387756,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/english-idle.webp",
+        "rect": [
+          155,
+          981,
+          255,
+          246
+        ],
+        "dest": [
+          184,
+          203,
+          184,
+          177
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.676,
+        0.466
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    },
+    "english-blush": {
+      "ready": true,
+      "body": {
+        "src": "/characters/rigs/body-english.webp",
+        "rect": [
+          0,
+          0,
+          1024,
+          1536
+        ],
+        "dest": [
+          0,
+          0,
+          512,
+          768
+        ]
+      },
+      "head": {
+        "src": "/characters/rigs/english-blush-v2.webp",
+        "rect": [
+          650,
+          104,
+          197,
+          287
+        ],
+        "blink": [
+          650,
+          1044,
+          198,
+          288
+        ],
+        "dest": [
+          164.33588850174215,
+          31,
+          164.73867595818814,
+          240
+        ]
+      },
+      "arm": {
+        "src": "/characters/rigs/english-idle.webp",
+        "rect": [
+          155,
+          981,
+          255,
+          246
+        ],
+        "dest": [
+          184,
+          203,
+          184,
+          177
+        ]
+      },
+      "face": [
+        0.49,
+        0.137
+      ],
+      "hand": [
+        0.676,
+        0.466
+      ],
+      "neck": [
+        0.49,
+        0.23
+      ],
+      "foot": [
+        0.5,
+        0.98
+      ],
+      "bubble": [
+        0.5,
+        0.88
+      ],
+      "shoulder": [
+        0.38,
+        0.29
+      ]
+    }
+  },
+  "runtimeFiles": [
+    {
+      "runtime": "/characters/rigs/blush-v2.webp",
+      "bytes": 329548,
+      "sha256": "283ea8d0530ba5cd1678c00c13ada6100de10d51ca8e0fb119fd1e70a0ef2a4c",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        116,
+        58,
+        859,
+        1197
+      ],
+      "source": "assets/character-v2/blush-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/body-default.webp",
+      "bytes": 378628,
+      "sha256": "67b6d7bcf83adbb3e6038cda863727c2a52387f3e25524d0d6753edbc45d994d",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        256,
+        334,
+        824,
+        1525
+      ],
+      "source": "assets/character-v2/body-default.png"
+    },
+    {
+      "runtime": "/characters/rigs/body-english.webp",
+      "bytes": 493616,
+      "sha256": "301b068df1b727bec059bef029fc7d0adcef45d04014da9ed1f10ba99cc3b218",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        268,
+        323,
+        769,
+        1508
+      ],
+      "source": "assets/character-v2/body-english.png"
+    },
+    {
+      "runtime": "/characters/rigs/body-history.webp",
+      "bytes": 572274,
+      "sha256": "e51a13a2f1ab0d8ac8a85eaae69aa37fa6936f4bc2fe19a6d0c1573b42378286",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        60,
+        222,
+        966,
+        1526
+      ],
+      "source": "assets/character-v2/body-history.png"
+    },
+    {
+      "runtime": "/characters/rigs/contempt-v2.webp",
+      "bytes": 345372,
+      "sha256": "2ba7027cfe5be2d2e5912124ee706af5b531260d5350e42b218459e3d25f5d6d",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        101,
+        34,
+        822,
+        1296
+      ],
+      "source": "assets/character-v2/contempt-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/contempt.webp",
+      "bytes": 549374,
+      "sha256": "e39c08b12168cee910bc3947caeb013ddd97a987d927909b8b741fce7ce2be52",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        72,
+        20,
+        870,
+        1215
+      ],
+      "source": "assets/character-v2/contempt.png"
+    },
+    {
+      "runtime": "/characters/rigs/correct-v2.webp",
+      "bytes": 380454,
+      "sha256": "37553698f656b3500ee1e7bb62e3ab5c70a0925dfa42f30dc45c5933415fde25",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        80,
+        46,
+        839,
+        1357
+      ],
+      "source": "assets/character-v2/correct-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/correct.webp",
+      "bytes": 438812,
+      "sha256": "8b41e78844f66954475665cb41cb53e4ad71405a7d86776580c226dbd52dec57",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        93,
+        10,
+        889,
+        1166
+      ],
+      "source": "assets/character-v2/correct.png"
+    },
+    {
+      "runtime": "/characters/rigs/encourage-v2.webp",
+      "bytes": 341780,
+      "sha256": "6d069b165acc5bb9c4d5253281d0beff27a5f4ee3deac9fcb2d347f75edf50e8",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        121,
+        20,
+        848,
+        1292
+      ],
+      "source": "assets/character-v2/encourage-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/english-blush-v2.webp",
+      "bytes": 489226,
+      "sha256": "0ea5a40a592ca8d8a02205b0a2192ae8fb956da248847834949d55472412ed35",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        117,
+        80,
+        848,
+        1332
+      ],
+      "source": "assets/character-v2/english-blush-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/english-idle-v2.webp",
+      "bytes": 418016,
+      "sha256": "2a75f617859f72f89d0b209da0e4a71da61a0a1497a67a9465a1ed1ae43fc38d",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        106,
+        47,
+        840,
+        1327
+      ],
+      "source": "assets/character-v2/english-idle-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/english-idle.webp",
+      "bytes": 624994,
+      "sha256": "780a57720e20c30a805344c08512d5f77af10aa1ac04e7dceb25535d09f1b495",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        99,
+        25,
+        876,
+        1227
+      ],
+      "source": "assets/character-v2/english-idle.png"
+    },
+    {
+      "runtime": "/characters/rigs/history-blush-v2.webp",
+      "bytes": 361784,
+      "sha256": "db856e33cb7ccfea40ac0eaf00053e0db7b21680683ad43e2f56708d12e9ceb4",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        35,
+        52,
+        841,
+        1306
+      ],
+      "source": "assets/character-v2/history-blush-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/history-idle-v2.webp",
+      "bytes": 363866,
+      "sha256": "79fd6f0b01cf65e131499a2c8f650e8752822161eac5286204681ca9b815ef3c",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        39,
+        28,
+        845,
+        1193
+      ],
+      "source": "assets/character-v2/history-idle-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/history-idle.webp",
+      "bytes": 421578,
+      "sha256": "db41dcfa300aea9b9c0f93054cd05c76d74e793a57fabb7b4ea1998f3338590c",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        30,
+        11,
+        872,
+        1194
+      ],
+      "source": "assets/character-v2/history-idle.png"
+    },
+    {
+      "runtime": "/characters/rigs/idle-v2.webp",
+      "bytes": 366198,
+      "sha256": "6674b092e21bc372abd1c0cc29c3b4aff060346ae759328ebae13ab48b4a392b",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        121,
+        60,
+        849,
+        1238
+      ],
+      "source": "assets/character-v2/idle-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/ignore-v2.webp",
+      "bytes": 358378,
+      "sha256": "74d1d4f345b5a2dfa9b8f7ebab776051edf368667e455c653b6b06a73fc87fdb",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        117,
+        80,
+        908,
+        1300
+      ],
+      "source": "assets/character-v2/ignore-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/question-v2.webp",
+      "bytes": 407752,
+      "sha256": "f99f37e493a9e7aacb374ba66e015bda4eb4d3b91c2bf89f93f2371ce92e6cfe",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        106,
+        19,
+        854,
+        1283
+      ],
+      "source": "assets/character-v2/question-v2.png"
+    },
+    {
+      "runtime": "/characters/rigs/question.webp",
+      "bytes": 364988,
+      "sha256": "409b8c3ff918c799f3a50526340582fe40d773980c595e832ddcc839973a8e06",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        117,
+        36,
+        865,
+        1139
+      ],
+      "source": "assets/character-v2/question.png"
+    },
+    {
+      "runtime": "/characters/rigs/sigh-v2.webp",
+      "bytes": 265966,
+      "sha256": "7ffc2ea4e8303eda9bab5502896ec4c74188da0b9a7dd5d9b3961de6563ef6a8",
+      "size": [
+        1024,
+        1536
+      ],
+      "alpha32Bounds": [
+        106,
+        35,
+        824,
+        1088
+      ],
+      "source": "assets/character-v2/sigh-v2.png"
+    }
+  ],
+  "runtimeBytes": 8272604,
+  "notes": [
+    "Original portraits and generation attempts retained.",
+    "Three shared full-body layers prevent proportions changing between reactions.",
+    "Head / closed-eye head / arm use source rectangles with registered destination positions; no text baked into artwork.",
+    "Rejected atlas body cells are not rendered.",
+    "Source PNG to lossless WebP conversion only; compositing and motion are runtime Canvas operations."
+  ]
+}

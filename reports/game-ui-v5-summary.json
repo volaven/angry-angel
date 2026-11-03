@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-03",
+  "viewports": 12,
+  "contentScenarios": 240,
+  "questionPages": 2996,
+  "contentIntegrityChecks": 816,
+  "unitTests": 17,
+  "rigStates": 12,
+  "rigFiles": 20,
+  "rigBytes": 8272604,
+  "offline": {
+    "cache": "9534c7a5ce98",
+    "files": 305,
+    "bytes": 57954631
+  },
+  "performance": {
+    "environment": "Headless desktop Edge; 4x CPU throttling, not a physical tablet",
+    "tabChanges": 80,
+    "heapBefore": 3348048,
+    "heapAfter": 3681872,
+    "heapGrowth": 333824,
+    "canvases": 1,
+    "browserRafPerSecond": 60.10331810267183,
+    "characterDrawCap": 30,
+    "physicalDevice": false
+  },
+  "physicalDevice": false,
+  "contentLocksPreserved": 120,
+  "enabledQuestions": 80,
+  "sourceHashes": {
+    "src/main.ts": "ae8c95628d13112233949be603ae23dfe862e99ee6e822adf410db51b7c71649",
+    "src/lesson-view.ts": "4054e39c77e1ad45781b85c6c3c7974eefceb59ddce27ed1353b66340383473c",
+    "src/paged-reader.ts": "c61eb6d5c8452309644a151f355e23d47f4086fb3ff85c3dca3bdaa8d626d182",
+    "src/game-ui.css": "5f1d4bc4aec84f08b1c0e9deed29d65182aa1db4f36efa70161da122c5757648",
+    "src/character-director.ts": "89ebc00f4216ed984784204b32c1ea742852dfe205e572fd80feef29a55eb597",
+    "src/character-rigs.json": "8c8251ab510eb88164bc3c74cd756d66bc14fa544d1f20335b01c0a1c67904e3"
+  }
+}

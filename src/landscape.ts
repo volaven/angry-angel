@@ -1,5 +1,5 @@
 export const needsRotation=(width:number,height:number)=>height>=width;
-export function learningType(height:number){return height<=600?{body:20,instruction:24}:height<=900?{body:24,instruction:30}:{body:28,instruction:36};}
+export function learningType(height:number){return height<=600?{body:22,instruction:28}:height<=900?{body:28,instruction:34}:{body:32,instruction:40};}
 
 // UI-only gate. No run, answer, reward or deadline is created or rewritten.
 let gate:HTMLElement|undefined;

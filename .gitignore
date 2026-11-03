@@ -12,3 +12,6 @@ test-results/
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
+
+.dev-v5*.log
+.preview-v5*.log

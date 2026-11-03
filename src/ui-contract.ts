@@ -17,7 +17,7 @@ export const SCREENS:Record<ScreenId,Contract>={
 };
 export const isLandscapePhone=(width:number,height:number)=>width>height&&height<=600&&width<=1200;
 // All in-app content uses fixed viewport pages; external source PDFs are exempt.
-export const CONTENT_CONTRACT={scroll:false,lessonTabs:['passage','answers','explanation','source'],orientation:'landscape',portraitBehavior:'rotation-guide',bodyFont:24,minimumBodyFont:20,phoneTouch:64,desktopTouch:80,externalDocumentScrolling:true} as const;
+export const CONTENT_CONTRACT={scroll:false,lessonTabs:['passage','answers','explanation','source'],orientation:'landscape',portraitBehavior:'rotation-guide',bodyFont:28,minimumBodyFont:22,phoneTouch:72,desktopTouch:88,externalDocumentScrolling:true} as const;
 export const escapeHTML=(s:unknown)=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]!));
 // Markup/attributes are internal templates. All content interpolations must be escaped first.
 export function renderButton(markup:string,action:string,classes='',attrs=''){

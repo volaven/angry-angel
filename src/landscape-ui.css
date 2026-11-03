@@ -1,7 +1,5 @@
 /* v4: readable landscape pages, never scale the whole application. */
-:root{--reading-font:24px;--instruction-font:30px}
-@media(max-height:600px){:root{--reading-font:20px;--instruction-font:24px}}
-@media(min-height:901px){:root{--reading-font:28px;--instruction-font:36px}}
+
 .page-window,.page-window .answer-card,.page-window pre,.page-window .passage{font-size:var(--reading-font);line-height:1.65}
 .page-window .question-instruction{font-size:var(--instruction-font);line-height:1.45}
 .page-window h1{font-size:var(--instruction-font)}

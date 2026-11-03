@@ -8,7 +8,7 @@ import {subjectArt} from '../src/subject-art';
 test('landscape-only contract includes square screens and exact font boundaries',()=>{
  assert.equal(needsRotation(390,844),true);assert.equal(needsRotation(1024,1024),true);
  assert.equal(needsRotation(844,390),false);
- assert.deepEqual([600,601,900,901].map(learningType),[{body:20,instruction:24},{body:24,instruction:30},{body:24,instruction:30},{body:28,instruction:36}]);
+ assert.deepEqual([600,601,900,901].map(learningType),[{body:22,instruction:28},{body:28,instruction:34},{body:28,instruction:34},{body:32,instruction:40}]);
  const manifest=JSON.parse(readFileSync('public/manifest.webmanifest','utf8'));
  assert.equal(manifest.orientation,'landscape');assert.equal(manifest.short_name,'합격하시든가');
 });
