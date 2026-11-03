@@ -1,0 +1,11 @@
+{
+  "persistentDOM": true,
+  "twentyTabCycles": true,
+  "duplicateEvents": false,
+  "portraitFrozen": true,
+  "reloadDedup": true,
+  "reducedMotion": true,
+  "loadingFallback": true,
+  "canvasCount": 1,
+  "physicalDevice": false
+}

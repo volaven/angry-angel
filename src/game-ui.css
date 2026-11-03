@@ -1,69 +1,62 @@
-/* Shared v5 geometry: measured text pages and one fixed control row. */
-:root{--reading-font:28px;--instruction-font:34px;--action-font:24px;--touch:88px;--control-touch:60px;--secondary-font:18px;--ui-gap:12px}
-@media(max-height:600px){:root{--reading-font:22px;--instruction-font:28px;--action-font:20px;--touch:72px;--control-touch:52px;--secondary-font:16px;--ui-gap:6px}}
+/* Selected A: library balance. Final geometry for the main application. */
+:root{--navy:#202c40;--paper:#fffcf4;--ink:#252e3c;--wine:#782d44;--gold:#b49a6c;--line:#c9bea9;--reading-font:28px;--instruction-font:34px;--action-font:24px;--touch:88px;--control-touch:60px;--secondary-font:18px;--ui-gap:12px;--header:70px;--gap:16px;color:var(--ink)}
+@media(max-height:600px){:root{--reading-font:22px;--instruction-font:28px;--action-font:20px;--touch:72px;--control-touch:52px;--secondary-font:16px;--ui-gap:8px;--header:58px;--gap:12px}}
 @media(min-height:901px){:root{--reading-font:32px;--instruction-font:40px;--action-font:26px}}
-button{font-weight:700;text-shadow:none}
-.primary{border:1px solid #c9a76c;border-image:none;background:#702a39;box-shadow:0 3px 0 #421a29;padding:8px 16px;font-size:var(--action-font);min-height:var(--touch)}
-.question-panel{border:1px solid #bda979;box-shadow:0 3px 10px #1d192518;gap:var(--ui-gap)}
-.question-panel:before{display:none}
-.page-window,.page-window .answer-card,.page-window pre,.page-window .passage{font-size:var(--reading-font);line-height:1.6;font-weight:500}
-.page-window .question-instruction,.page-window h1{font-size:var(--instruction-font);font-weight:800;line-height:1.4}
-.page-window h2{font-size:var(--reading-font)}
-.page-window .answer-card{min-height:var(--touch);padding:10px 14px;grid-template-columns:32px minmax(0,1fr);gap:10px}
-.answer-state{grid-column:2;font-size:16px!important;line-height:1.3}
-.answer-state:empty{display:none}
-.lesson-tabs button{min-height:var(--control-touch);font-size:var(--action-font);padding:6px 8px;font-weight:700}
-.reader-controls{display:flex;align-items:center;gap:12px;flex:none;border-top:1px solid #cbbd9f;padding-top:8px}
-.reader-controls .book-nav{flex:1;min-width:0;border:0;padding:0;gap:8px;grid-template-columns:1fr auto 1fr}
-.reader-controls .book-nav button{min-height:var(--control-touch);font-size:var(--secondary-font);padding:6px 10px;min-width:52px}
-.reader-controls .page-count{font-size:var(--secondary-font);text-align:center}
-.reader-controls .lesson-actions{position:static;width:auto;height:auto;flex:0 1 44%;min-width:0;gap:6px}
-.reader-controls .lesson-actions button{min-height:var(--touch);font-size:var(--action-font);line-height:1.3;padding:8px 12px;white-space:normal}
-.reader-controls:has([data-action=submit]) .lesson-actions{flex:0 1 62%}
-.app-header .lesson-meta{display:flex;align-items:center;gap:20px;flex:1;min-width:0;font-size:20px;color:#fff4dc;font-variant-numeric:tabular-nums}
-.lesson-meta small{font-size:16px;color:#e4d2b0}.lesson-meta .progress{margin-left:auto;white-space:nowrap}
-.app-header button{font-size:var(--secondary-font);min-height:var(--control-touch)}
-.menu-card b,.subject-caption b{font-size:clamp(24px,2.4vw,36px);font-weight:800;line-height:1.3}
-.menu-card small,.subject-caption small,.subject-caption .card-status,.outfit small,.outfit .card-status{font-size:var(--secondary-font);line-height:1.45}
-.section-title p{font-size:var(--secondary-font)}
+button{font-weight:700;text-shadow:none;border-radius:8px}
+.primary{border:1px solid #ad7f86;border-image:none;background:var(--wine);box-shadow:none;padding:10px 16px;font-size:var(--action-font);min-height:var(--touch);color:#fff6e5}
+.primary:hover:not(:disabled){background:#612137}
+button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #a35b72;outline-offset:2px}
+::selection{background:#e3c4ce;color:#271b25}
+.app-header{height:var(--header);min-height:var(--header);padding:5px max(12px,env(safe-area-inset-right)) 5px max(12px,env(safe-area-inset-left));gap:12px;background:var(--navy);border-bottom:0}
+.app-header button{font-size:var(--secondary-font);min-height:var(--control-touch);height:auto;padding:6px 10px}
+.app-header .back-slot{width:52px}
+.app-header .back-slot button{width:52px;min-width:52px;min-height:var(--control-touch);font-size:24px}
+.app-header .lesson-meta{display:flex;align-items:center;gap:10px;flex:1;min-width:0;font-size:18px;color:#fff6e5;font-variant-numeric:tabular-nums}
+.lesson-meta small{font-size:16px;color:#e3cfaa}.lesson-meta .progress{margin-left:auto;white-space:nowrap;font-size:16px}.lesson-meta time{min-width:54px;text-align:right}
+/* Full-height 60:40 title; settings float outside its layout flow. */
+body[data-screen=entry]{background:linear-gradient(90deg,#142032ef,#14203262),url('/ui-v3/library.webp') center/cover}
+body[data-screen=entry] .app-header{position:absolute;top:max(8px,env(safe-area-inset-top));right:max(12px,env(safe-area-inset-right));z-index:3;width:auto;height:auto;min-height:0;padding:0;background:transparent;border:0}
+body[data-screen=entry] .app-header .back-slot,body[data-screen=entry] .app-header .brand{display:none}
+body[data-screen=entry] .app-header button{background:#202c40;color:#fff6e5;border-color:#7a8190}
+body[data-screen=entry] main{height:100dvh;max-width:none;padding:max(18px,env(safe-area-inset-top)) max(20px,env(safe-area-inset-right)) max(18px,env(safe-area-inset-bottom)) max(20px,env(safe-area-inset-left));gap:0}
+.entry-grid{height:100%;min-height:0;max-width:none;width:100%;display:grid;grid-template-columns:minmax(0,6fr) minmax(0,4fr);gap:16px;align-items:stretch}
+.entry-copy{padding:0;display:flex;flex-direction:column;justify-content:center;min-width:0;gap:14px;color:#fff4df}
+.entry-info{font-size:16px;color:#e3c99b;margin:0}
+.hero-title{font-size:clamp(32px,4.8vw,64px);line-height:1.16;letter-spacing:-.035em;font-weight:900;margin:0;text-shadow:none}.hero-title em{font-style:normal;color:#ecb2bf}
+.intro{font-size:18px;line-height:1.5;color:#fff4df;margin:0;display:block}
+.entry-copy .entry-cta{margin:0;max-width:440px;width:100%;min-height:var(--touch);display:flex;align-items:center;justify-content:space-between;gap:14px}
+.entry-art{height:100%;min-height:0;align-self:stretch;display:flex}.entry-art .character-stage{height:100%;width:100%}
+/* Work panel and cast remain fixed while the measured book changes pages. */
+body[data-screen=play]{background:#e6dfd1}
+body[data-screen=play] main{max-width:none;height:calc(100dvh - var(--header));padding:8px max(12px,env(safe-area-inset-right)) max(8px,env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left));gap:0}
+.play-grid{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,3fr);gap:var(--gap);flex:1;min-height:0}
+.question-panel{border:1px solid var(--gold);border-radius:12px;background:var(--paper);box-shadow:none;padding:10px;display:flex;flex-direction:column;min-width:0;min-height:0;gap:var(--ui-gap);overflow:hidden}.question-panel:before{display:none}
+.lesson-tabs{display:flex;gap:6px;flex:none}.lesson-tabs button{flex:1;min-width:0;min-height:var(--control-touch);font-size:var(--action-font);line-height:1.3;padding:6px 4px;background:var(--paper);border-color:var(--line)}
+.lesson-tabs button[aria-pressed=true]{background:var(--navy);color:#fff6e5;border-color:var(--navy);box-shadow:none}.lesson-tabs button:disabled{opacity:1;color:#777161;background:#eee9df}
+.paged-reader{gap:8px}.page-window,.page-window .answer-card,.page-window pre,.page-window .passage{font-size:var(--reading-font);line-height:1.6;font-weight:500}
+.page-window>*{margin:0 0 12px}.page-window>:last-child{margin-bottom:0}
+.page-window .question-instruction,.page-window h1{font-size:var(--instruction-font);font-weight:800;line-height:1.4;margin:0 0 12px}.page-window h2{font-size:var(--reading-font);font-weight:800;line-height:1.5}
+.page-window .answer-card{min-height:var(--touch);padding:9px 12px;grid-template-columns:30px minmax(0,1fr);gap:10px;background:#fffdf8;border-radius:8px}
+.page-window .answer-card:disabled{color:var(--ink);background:#f4efe4}.page-window .answer-card.right:disabled{background:#e9f0e5;border-color:#58705b}.page-window .answer-card.wrong:disabled{background:#f7e6e5;border-color:#a65b66}
+.answer-number{display:block;width:auto;height:auto;line-height:inherit;border:0;border-radius:0;font:800 var(--reading-font)/1.6 ExamSans,sans-serif;color:#72532f;text-align:center}
+.answer-state{grid-column:2;font-size:16px!important;line-height:1.3}.answer-state:empty{display:none}
+.reader-controls{display:flex;align-items:center;gap:10px;flex:none;border-top:1px solid var(--line);padding-top:5px}
+.reader-controls .book-nav{flex:1;min-width:0;border:0;padding:0;gap:6px;grid-template-columns:52px minmax(38px,1fr) 52px}
+.reader-controls .book-nav button{display:grid;place-items:center;width:52px;min-width:52px;min-height:var(--control-touch);padding:6px;font-size:0}
+.book-nav button svg{display:block;width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.reader-controls .page-count{font-size:16px;text-align:center;color:#6b583b}
+.reader-controls .lesson-actions{position:static;flex:0 1 48%;min-width:0;width:auto;height:auto;gap:6px}.reader-controls .lesson-actions button{min-height:var(--touch);font-size:var(--action-font);line-height:1.3;padding:10px 12px;white-space:normal}
+.reader-controls:has([data-action=submit]) .lesson-actions{flex-basis:64%}
+.character{display:flex;flex-direction:column;min-height:0;min-width:0;gap:8px;overflow:hidden}
+.character-stage{position:relative;isolation:isolate;overflow:hidden;min-height:0;flex:1}.character-stage img{position:absolute;inset:0;width:100%;height:100%;max-height:none;object-fit:contain;object-position:center bottom;z-index:1}
+.character-stage canvas{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:2}.character-stage[data-rig=ready] img{visibility:hidden}
+.character .dialogue,.character .cutin{flex:none;border:1px solid var(--gold);border-image:none;background:var(--navy);border-radius:9px;padding:10px 12px;box-shadow:none;min-height:0;color:#fff6e5}
+.character .dialogue b,.dialogue-heading b{display:block;color:#e5c38a;font-size:16px;margin:0}.character .dialogue p,.character .cutin p{font-size:16px;line-height:1.45;margin:4px 0 0;word-break:keep-all}
+.dialogue-heading{display:flex;align-items:center;justify-content:space-between;gap:8px}.character .cutin .plain{position:static;width:auto;min-width:52px;min-height:52px;height:auto;font-size:16px;margin:0;padding:6px;color:#fff6e5;border-color:#7a8190;background:transparent}.character .cutin .plain:after{display:none}
+.character.has-reaction .dialogue{display:none}.desktop-reaction:empty{display:none}
+/* Existing menus share A's controls; content and access rules are unchanged. */
+.menu-card b,.subject-caption b{font-size:clamp(24px,2.4vw,36px);font-weight:800;line-height:1.3}.menu-card small,.subject-caption small,.subject-caption .card-status,.outfit small,.outfit .card-status{font-size:var(--secondary-font);line-height:1.45}.section-title p{font-size:var(--secondary-font)}
 .pager button,.aux-menu button{min-height:var(--control-touch);font-size:var(--secondary-font)}
-.character{display:flex;flex-direction:column;min-height:0;gap:8px}
-.character-stage{position:relative;isolation:isolate;overflow:hidden;min-height:0;flex:1}
-.character-stage img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;object-position:center bottom;z-index:1}
-.character-stage canvas{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:2}
-.character-stage[data-rig=ready] img{visibility:hidden}
-.character .dialogue,.character .cutin{border:1px solid #b89b6b;border-image:none;background:#19283f;padding:14px 16px;box-shadow:none}
-.character .dialogue p,.character .cutin p{font-size:18px;line-height:1.55;margin:6px 0 0;word-break:keep-all}
-.character .dialogue span{font-size:16px;color:#e2c696}
-.character .cutin button{min-height:52px;font-size:16px;margin-top:10px}
-.entry-art .character-stage{height:100%;width:100%}
-.entry-art .character-stage img{height:100%;max-height:none}
-@media(orientation:landscape) and (max-height:600px) and (max-width:1200px){
- :root{--header:60px}
- .app-header{height:60px;min-height:60px;padding:4px 10px;gap:10px}
- body[data-screen=play] .app-header{background:#202c40;border-bottom:1px solid #b59b6b}
- .app-header button,.app-header .back-slot button{height:52px;min-height:52px;font-size:16px;padding:4px 10px}
- .app-header .back-slot{width:48px}.app-header .lesson-meta{font-size:16px;gap:10px}.lesson-meta small{font-size:14px}
- main,body[data-screen=play] main{height:calc(100dvh - 60px);padding:6px 12px 8px;gap:6px}
- .question-panel{padding:6px 10px}
- .reader-controls{gap:8px;padding-top:5px}
- .reader-controls .book-nav button{font-size:0;padding:4px;width:52px}
- .reader-controls .book-nav button:first-child:after{content:'←';font-size:24px}
- .reader-controls .book-nav button:last-child:after{content:'→';font-size:24px}
- .reader-controls .lesson-actions{flex-basis:48%}
- .reader-controls .lesson-actions button{padding:6px 8px}
- .page-window .question-instruction{margin-bottom:10px}
- .play-grid .dialogue,.desktop-reaction .cutin{padding:8px;border:1px solid #b89b6b;border-image:none}
- .play-grid .dialogue p,.desktop-reaction .cutin p{font-size:16px;line-height:1.4;margin:4px 0}
- .desktop-reaction .cutin .reaction-label{font-size:14px}
- .desktop-reaction .cutin button{min-height:52px;height:auto;width:100%;font-size:16px;margin-top:6px}
- .character .affinity{display:none}.character{gap:6px}
- .play-grid .character-stage[data-rig=fallback] img{object-fit:cover;object-position:center 14%}
- .menu-card{padding:8px}.menu-card b,.subject-caption b{font-size:24px}
- .subject-caption{height:124px;padding:8px;gap:2px}
- .section-title{gap:8px}.section-title h1{font-size:26px}.section-title p{font-size:16px}
- .hub-cards .menu-card{grid-template-rows:minmax(20px,1fr) auto auto}.hub-cards .card-arrow{display:none}
- .aux-menu{gap:6px}.aux-menu button{padding:5px 8px}
- .entry-cta{min-height:72px}.outfit b{font-size:24px}
-}
+@media(min-height:601px){body[data-screen=entry] main{padding:32px}.entry-copy{gap:24px}body[data-screen=play] main{padding:14px max(18px,env(safe-area-inset-right)) max(14px,env(safe-area-inset-bottom)) max(18px,env(safe-area-inset-left))}.question-panel{padding:16px}.character .dialogue,.character .cutin{padding:16px}.character .dialogue p,.character .cutin p,.character .dialogue b,.dialogue-heading b{font-size:18px}.reader-controls{gap:16px}.reader-controls .book-nav{grid-template-columns:60px minmax(42px,1fr) 60px}.reader-controls .book-nav button{width:60px;min-width:60px}.reader-controls .page-count{font-size:18px}}
+@media(orientation:landscape) and (max-height:600px) and (max-width:1200px){.app-header .brand{display:flex}main{height:calc(100dvh - var(--header));padding:6px 12px 8px;gap:6px}.section-title{gap:8px}.section-title h1{font-size:26px}.section-title p{font-size:16px}.menu-card{padding:8px}.menu-card b,.subject-caption b{font-size:24px}.subject-caption{height:124px;padding:8px;gap:2px}.hub-cards .menu-card{grid-template-rows:minmax(20px,1fr) auto auto}.hub-cards .card-arrow{display:none}.aux-menu{gap:6px}.aux-menu button{padding:5px 8px}.outfit b{font-size:24px}.play-grid .character-stage[data-rig=fallback] img{object-fit:cover;object-position:center 14%}}
 @media(prefers-reduced-motion:reduce){.character-stage *{animation:none!important}}

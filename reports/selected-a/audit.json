@@ -1,0 +1,513 @@
+{
+  "checkedAt": "2026-11-03T12:13:21.612Z",
+  "sizes": [
+    [
+      667,
+      375
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      915,
+      364
+    ],
+    [
+      1024,
+      768
+    ]
+  ],
+  "checks": [
+    {
+      "width": 667,
+      "height": 375,
+      "entry": true,
+      "referenceGeometry": true,
+      "navigationPreservesRun": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-0-1",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-0-17",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-1-6",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "question": "2024-0-12",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "entry": true,
+      "referenceGeometry": true,
+      "navigationPreservesRun": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-0-1",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-0-17",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-1-6",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "question": "2024-0-12",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "entry": true,
+      "referenceGeometry": true,
+      "navigationPreservesRun": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-0-1",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-0-17",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-1-6",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "question": "2024-0-12",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "entry": true,
+      "referenceGeometry": true,
+      "navigationPreservesRun": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-0-1",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-0-17",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-1-6",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "question": "2024-0-12",
+      "correct": true,
+      "wrong": true,
+      "answerLock": true,
+      "saveRestore": true,
+      "rotationPreservesRun": true
+    }
+  ],
+  "reference": [
+    {
+      "width": 667,
+      "height": 375,
+      "reference": {
+        "copy": {
+          "x": 20,
+          "y": 18,
+          "width": 366.59375,
+          "height": 339
+        },
+        "art": {
+          "x": 410.9828796386719,
+          "y": 18,
+          "width": 244.39065551757812,
+          "height": 339
+        },
+        "title": {
+          "x": 20,
+          "y": 88.8125,
+          "width": 366.59375,
+          "height": 111.375
+        },
+        "button": {
+          "x": 20,
+          "y": 255.1875,
+          "width": 366.59375,
+          "height": 72
+        },
+        "titleFont": 32.016,
+        "buttonFont": 20,
+        "ratioError": 0.0031066894531477374,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 667,
+          "height": 375
+        }
+      },
+      "applied": {
+        "copy": {
+          "x": 20,
+          "y": 18,
+          "width": 366.59375,
+          "height": 339
+        },
+        "art": {
+          "x": 402.59375,
+          "y": 18,
+          "width": 244.390625,
+          "height": 339
+        },
+        "title": {
+          "x": 20,
+          "y": 88.5,
+          "width": 366.59375,
+          "height": 111.375
+        },
+        "button": {
+          "x": 20,
+          "y": 254.875,
+          "width": 366.59375,
+          "height": 72
+        },
+        "titleFont": 32.016,
+        "buttonFont": 20,
+        "ratioError": 0.0031250000000113687,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 667,
+          "height": 375
+        }
+      }
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "reference": {
+        "copy": {
+          "x": 20,
+          "y": 18,
+          "width": 472.796875,
+          "height": 354
+        },
+        "art": {
+          "x": 521.7396850585938,
+          "y": 18,
+          "width": 315.203125,
+          "height": 354
+        },
+        "title": {
+          "x": 20,
+          "y": 81.515625,
+          "width": 472.796875,
+          "height": 140.953125
+        },
+        "button": {
+          "x": 20,
+          "y": 277.46875,
+          "width": 440,
+          "height": 72
+        },
+        "titleFont": 40.512,
+        "buttonFont": 20,
+        "ratioError": 0.0031249999999545253,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 844,
+          "height": 390
+        }
+      },
+      "applied": {
+        "copy": {
+          "x": 20,
+          "y": 18,
+          "width": 472.796875,
+          "height": 354
+        },
+        "art": {
+          "x": 508.796875,
+          "y": 18,
+          "width": 315.203125,
+          "height": 354
+        },
+        "title": {
+          "x": 20,
+          "y": 81.21875,
+          "width": 472.796875,
+          "height": 140.953125
+        },
+        "button": {
+          "x": 20,
+          "y": 277.171875,
+          "width": 440,
+          "height": 72
+        },
+        "titleFont": 40.512,
+        "buttonFont": 20,
+        "ratioError": 0.0031249999999545253,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 844,
+          "height": 390
+        }
+      }
+    },
+    {
+      "width": 915,
+      "height": 364,
+      "reference": {
+        "copy": {
+          "x": 20,
+          "y": 18,
+          "width": 515.390625,
+          "height": 328
+        },
+        "art": {
+          "x": 559.77734375,
+          "y": 18,
+          "width": 343.609375,
+          "height": 328
+        },
+        "title": {
+          "x": 20,
+          "y": 62.59375,
+          "width": 515.390625,
+          "height": 152.8125
+        },
+        "button": {
+          "x": 20,
+          "y": 270.40625,
+          "width": 440,
+          "height": 72
+        },
+        "titleFont": 43.92,
+        "buttonFont": 20,
+        "ratioError": 0.009374999999977263,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 915,
+          "height": 364
+        }
+      },
+      "applied": {
+        "copy": {
+          "x": 20,
+          "y": 18,
+          "width": 515.390625,
+          "height": 328
+        },
+        "art": {
+          "x": 551.390625,
+          "y": 18,
+          "width": 343.609375,
+          "height": 328
+        },
+        "title": {
+          "x": 20,
+          "y": 62.28125,
+          "width": 515.390625,
+          "height": 152.8125
+        },
+        "button": {
+          "x": 20,
+          "y": 270.09375,
+          "width": 440,
+          "height": 72
+        },
+        "titleFont": 43.92,
+        "buttonFont": 20,
+        "ratioError": 0.009374999999977263,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 915,
+          "height": 364
+        }
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "reference": {
+        "copy": {
+          "x": 32,
+          "y": 32,
+          "width": 566.390625,
+          "height": 704
+        },
+        "art": {
+          "x": 624.8165283203125,
+          "y": 32,
+          "width": 377.609375,
+          "height": 704
+        },
+        "title": {
+          "x": 32,
+          "y": 242.46875,
+          "width": 566.390625,
+          "height": 171.046875
+        },
+        "button": {
+          "x": 32,
+          "y": 488.515625,
+          "width": 440,
+          "height": 88
+        },
+        "titleFont": 49.152,
+        "buttonFont": 24,
+        "ratioError": 0.009374999999977263,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 768
+        }
+      },
+      "applied": {
+        "copy": {
+          "x": 32,
+          "y": 32,
+          "width": 566.390625,
+          "height": 704
+        },
+        "art": {
+          "x": 614.390625,
+          "y": 32,
+          "width": 377.609375,
+          "height": 704
+        },
+        "title": {
+          "x": 32,
+          "y": 242.171875,
+          "width": 566.390625,
+          "height": 171.046875
+        },
+        "button": {
+          "x": 32,
+          "y": 488.21875,
+          "width": 440,
+          "height": 88
+        },
+        "titleFont": 49.152,
+        "buttonFont": 24,
+        "ratioError": 0.009374999999977263,
+        "main": {
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 768
+        }
+      }
+    }
+  ],
+  "errors": [],
+  "verifiedQuestions": 80,
+  "lockedQuestions": 120,
+  "physicalDevice": false
+}

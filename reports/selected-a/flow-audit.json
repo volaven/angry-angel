@@ -1,0 +1,18 @@
+{
+  "wrongStages": true,
+  "reviewResolveAndReopen": true,
+  "inspectRestore": true,
+  "rotationAnchor": true,
+  "portraitBlocksInputAndReading": true,
+  "portraitReload": true,
+  "portraitMockExpiry": true,
+  "zoomTiles": 8,
+  "mockEditAndHiddenGrade": true,
+  "deadlinePreserved": true,
+  "timeout": true,
+  "duplicateSubmitPrevented": true,
+  "fastGuard": true,
+  "voiceRemoved": true,
+  "errors": [],
+  "physicalDevice": false
+}
